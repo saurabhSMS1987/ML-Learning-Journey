@@ -337,10 +337,9 @@ Total: ~1,000 hours | 27+ projects | Enterprise-ready skills
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [Your GitHub Profile](https://github.com/[your-username])
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/[your-profile])
-- **Email:** [your-email@example.com]
-- **Twitter/X:** [@YourHandle](https://twitter.com/YourHandle)
+- **GitHub:** [https://github.com/saurabhSMS1987]
+- **LinkedIn:** [https://www.linkedin.com/in/saurabhshirgaokar/]
+- **Email:** [shirgaokar.saurabh@gmail.com]
 
 ### Feedback & Collaboration
 - 💬 Found an error? Open an issue!
@@ -467,9 +466,6 @@ Weekly summaries and overall progress toward goals
 ## 🚀 Ready to Learn?
 
 ### Quick Links
-- 📚 [Week 1 Summary](./Week-1/Week-1-Summary.md)
-- 🎯 [26-Week Roadmap](./26-WEEK-ROADMAP.md)
-- 💻 [First Project](./Projects/Day-4-Mental-Health-Analysis)
 - 📖 [Day 1 Learning Log](./Week-1/Day-1/Day_1_Learning_Log.md)
 
 ### Get Started
@@ -478,14 +474,6 @@ Weekly summaries and overall progress toward goals
 3. Follow along weekly
 4. Build your portfolio
 5. Connect with me!
-
----
-
-## 📜 License
-
-This project is open source under the MIT License - feel free to use this curriculum and adapt it for your own learning journey!
-
-[MIT License](./LICENSE)
 
 ---
 
