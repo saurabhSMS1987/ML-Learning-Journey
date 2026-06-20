@@ -16,13 +16,6 @@
 
 I'm **learning machine learning in public** and documenting every step of my journey from Python fundamentals to building enterprise-grade AI systems.
 
-This repository contains:
-- 📚 **Structured Learning** - 26 weeks of organized curriculum
-- 💻 **Real Projects** - Production-ready code and analysis
-- 📝 **Detailed Logs** - Daily learning documentation
-- 🔬 **Code Examples** - Every concept with working code
-- 📊 **Portfolio Pieces** - Professional work samples
-
 ---
 
 ## 📍 Current Progress
