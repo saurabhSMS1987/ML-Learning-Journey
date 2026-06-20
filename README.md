@@ -43,8 +43,6 @@ I'm **learning machine learning in public** and documenting every step of my jou
 | Projects | 2 |
 | GitHub Ready | ✅ Yes |
 
-**View:** [Week 1 Detailed Summary](./Week-1/Week-1-Summary.md)
-
 ---
 
 ## 🗺️ The 26-Week Roadmap
