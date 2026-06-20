@@ -309,7 +309,6 @@ Day-7-Superstore-EDA/
 ├── README.md                          (This file)
 ├── analysis.ipynb                     (Complete notebook)
 ├── Superstore_Sales_Dataset.csv       (Raw data - 9,801 records)
-└── [Visualizations]                   (Charts and graphs)
 ```
 
 ---
