@@ -123,14 +123,6 @@ top_students = students.sort_values('Average', ascending=False)
 
 ---
 
-## 🎯 Confidence Level: 8/10
-
-- Solid understanding of fundamentals
-- Can manipulate arrays & DataFrames confidently
-- Ready to apply to real data
-
----
-
 ## 🚀 Tomorrow's Focus (Day 2)
 
 - Advanced SQL (Subqueries, joins)
