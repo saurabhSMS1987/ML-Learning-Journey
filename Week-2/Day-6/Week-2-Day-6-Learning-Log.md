@@ -1,6 +1,6 @@
 # Week 2: Day 6 Learning Log
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 13/14 days (93%)
 
 ---
@@ -215,16 +215,6 @@ print(response.choices[0].message.content)
 
 ---
 
-## 📊 Time Breakdown
-
-- Logistic Regression: 2 hours
-- Confusion Matrix & Metrics: 1.5 hours
-- OpenAI API: 2 hours
-- Chatbot Building: 1.5 hours
-- Tableau Basics: 1 hour
-
----
-
 ## 💡 Key Takeaways
 
 1. **Classification:** Different problem type than regression
@@ -233,16 +223,6 @@ print(response.choices[0].message.content)
 4. **OpenAI API:** Powerful tool for text tasks
 5. **Few-shot prompting:** Improves output quality
 6. **Chatbots:** Simple state management + API = interactive AI
-
----
-
-## 🎯 Confidence Level: 8/10
-
-- Good understanding of logistic regression
-- Comfortable with OpenAI API
-- Can build basic chatbots
-- Understand classification metrics
-- Ready for advanced topics
 
 ---
 
