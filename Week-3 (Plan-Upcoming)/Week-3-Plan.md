@@ -87,15 +87,6 @@
 ### Day 7: Capstone Project
 **Focus:** Customer Segmentation + Churn Prediction
 
-**Project Requirements:**
-- Real customer dataset (100+ records)
-- Data exploration & cleaning
-- Feature engineering
-- 5+ models built & optimized
-- Ensemble model selection
-- Professional analysis & insights
-- Complete documentation
-
 **Deliverable:** Production-ready capstone project
 
 ---
@@ -131,30 +122,9 @@ from sklearn.ensemble import (
 import xgboost as xgb
 import lightgbm as lgb
 ```
-
 ---
 
-## 📊 Success Metrics for Week 3
-
-**By End of Week 3:**
-
-✅ **Days:** 7/7 (100% consistency maintained)  
-✅ **Hours:** 56+ hours invested  
-✅ **Lessons:** 250+ new concepts  
-✅ **Models:** 5+ optimized models  
-✅ **Capstone:** Complete project delivered  
-✅ **Skills:** Advanced ML techniques mastered  
-✅ **Documentation:** Professional learning logs  
-
-**Model Improvement Targets:**
-- Linear Regression: R² > 0.8
-- Logistic Regression: Accuracy > 85%
-- Random Forest: F1-score > 0.8
-- Ensemble: Best model > 0.85 AUC
-
----
-
-## 📚 Recommended Courses
+## 📚 Courses to Focus for Week 3
 
 **DataCamp:**
 - Model Validation in Python (4 hours)
@@ -172,34 +142,6 @@ import lightgbm as lgb
 
 ---
 
-## 💡 Key Learning Objectives
-
-### Validation
-- [ ] Understand K-Fold cross-validation
-- [ ] Implement stratified K-Fold
-- [ ] Read & interpret learning curves
-- [ ] Diagnose overfitting/underfitting
-
-### Hyperparameter Tuning
-- [ ] Use GridSearchCV effectively
-- [ ] Understand RandomizedSearchCV
-- [ ] Define parameter grids
-- [ ] Interpret tuning results
-
-### Ensemble Methods
-- [ ] Understand bagging concept
-- [ ] Learn boosting algorithms
-- [ ] Implement XGBoost
-- [ ] Compare ensemble approaches
-
-### Practical Application
-- [ ] Improve Week 2 Model1
-- [ ] Engineer features
-- [ ] Select best models
-- [ ] Build production-ready system
-
----
-
 ## 🏆 Capstone Project: Customer Segmentation & Churn
 
 **Scenario:** Retail customer data analysis
@@ -214,15 +156,6 @@ import lightgbm as lgb
    - Predict which customers will leave
    - Identify key churn factors
    - Actionable recommendations
-
-**Deliverables:**
-- [ ] Exploratory data analysis
-- [ ] Data preprocessing & feature engineering
-- [ ] Segmentation model (KMeans)
-- [ ] Churn prediction model (5+ types)
-- [ ] Model evaluation & comparison
-- [ ] Business insights & recommendations
-- [ ] Professional notebook & documentation
 
 **Success Criteria:**
 - Churn model accuracy > 85%
@@ -264,93 +197,6 @@ Result: Advanced ML Engineer Ready! 🎯
 
 ---
 
-## 💼 Skills You'll Have After Week 3
-
-✅ **Validation Expert**
-- Cross-validation techniques
-- Learning curve interpretation
-- Overfitting prevention
-
-✅ **Hyperparameter Tuning Master**
-- GridSearchCV / RandomizedSearchCV
-- Parameter optimization
-- Efficient searching strategies
-
-✅ **Ensemble Methods Expert**
-- Bagging & Boosting
-- XGBoost & LightGBM
-- Voting & Stacking
-- Model comparison
-
-✅ **Advanced ML Engineer**
-- Model improvement techniques
-- Feature engineering
-- Production-ready code
-- Business impact analysis
-
----
-
-## 📊 Week 3 Preview Metrics
-
-| Metric | Target |
-|--------|--------|
-| Days | 7/7 |
-| Hours | 56+ |
-| Models Built | 5+ |
-| Lessons | 250+ |
-| Notebooks | 10+ |
-| Optimization Techniques | 8+ |
-| Capstone Quality | Professional |
-
----
-
-## 🎯 Connection to Week 4+
-
-**Week 3 builds foundation for:**
-- Week 4: Unsupervised Learning (clustering, dimensionality reduction)
-- Week 5: Neural Networks (deep learning intro)
-- Week 6-8: Specialized techniques & advanced projects
-
-**Cumulative Progress:**
-- Weeks 1-2: Fundamentals + First Models
-- Week 3: Advanced Optimization
-- Weeks 4-8: Specialized ML Techniques
-
----
-
-## 📝 Files You'll Create
-
-**Daily Learning Logs:**
-- Week-3-Day-1-Learning-Log.md (Validation)
-- Week-3-Day-2-Learning-Log.md (Metrics)
-- Week-3-Day-3-Learning-Log.md (Tuning Part 1)
-- Week-3-Day-4-Learning-Log.md (Tuning Part 2)
-- Week-3-Day-5-Learning-Log.md (Ensemble Part 1)
-- Week-3-Day-6-Learning-Log.md (Ensemble Part 2)
-- Week-3-Day-7-Learning-Log.md (Capstone)
-
-**Week Summary:**
-- Week-3-Summary.md (Complete overview)
-
-**Project Files:**
-- Customer_Segmentation_Churn_Prediction.ipynb
-- Optimized_Model1_Comparison.ipynb
-- Hyperparameter_Tuning_Results.csv
-- Models/ (folder with saved .pkl files)
-
----
-
-## 🔗 Resources to Prepare
-
-**Before Week 3 Starts:**
-- [ ] Review Week 2 models & code
-- [ ] Gather customer churn dataset
-- [ ] Install XGBoost & LightGBM
-- [ ] Review scikit-learn documentation
-- [ ] Plan capstone project scope
-
----
-
 ## 💪 Motivation
 
 > "The difference between a good model and a great model is optimization."
@@ -376,19 +222,6 @@ By the end of Week 3, you'll be able to:
 ✅ Explain model performance professionally  
 
 ---
-
-## 📍 Status
-
-```
-Preparation: Ready ✅
-Courses: Identified ✅
-Resources: Gathered ✅
-Capstone: Scoped ✅
-Motivation: High 💪
-
-Start Date: [Next Monday]
-Target Completion: 7/7 days
-Quality Target: Excellent ⭐⭐⭐⭐⭐
 ```
 
 ---
