@@ -1,6 +1,6 @@
 # Week 2: Day 6 Learning Log
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 13/14 days (93%)
 
 ---
