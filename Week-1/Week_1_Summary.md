@@ -60,22 +60,6 @@
 
 ---
 
-## 📊 By The Numbers
-
-| Metric | Count |
-|--------|-------|
-| Days Completed | 7/7 (100%) |
-| Lessons | 150+ |
-| Problems Solved | 75+ |
-| Code Examples | 200+ |
-| Projects | 2 |
-| Datasets Analyzed | 2 |
-| Total Records Analyzed | 10,000+ |
-| Learning Hours | 40+ |
-| Lines of Code | 500+ |
-
----
-
 ## 💡 Key Insights
 
 **Day 1-3:** Foundation skills (Python, SQL, visualization)  
