@@ -1,6 +1,6 @@
 # Week 2: Day 7 Learning Log - Capstone Project
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 14/14 days (100%)
 
 ---
@@ -187,15 +187,6 @@ pickle.dump(best_model, open('supply_chain_model.pkl', 'wb'))
 | Overfitting risk | Used train/test split to monitor |
 | Documentation | Added clear comments throughout |
 
----
-
-## 📊 Time Breakdown
-
-- Data exploration: 1 hour
-- Data preparation: 1 hour
-- Model building: 3 hours
-- Evaluation: 1.5 hours
-- Documentation: 1.5 hours
 
 ---
 
@@ -209,16 +200,6 @@ pickle.dump(best_model, open('supply_chain_model.pkl', 'wb'))
 6. **Model evaluation:** How you measure is crucial
 7. **GenAI:** APIs open new possibilities
 8. **Consistency:** Daily practice > occasional effort
-
----
-
-## 🎯 Confidence Level: 8.5/10
-
-- Confident in ML fundamentals
-- Can build working models
-- Understand evaluation metrics
-- Know next steps for improvement
-- Ready for Week 3 optimization
 
 ---
 
@@ -300,10 +281,6 @@ Current: 2/26 weeks (7.7%) | 14/14 days (100%) ✅
 
 **Status:** Week 2 COMPLETE! Ready for Week 3! ✅
 
-**Next:** Week 3 Day 1 - Model Validation & Cross-validation
-
 ---
 
 *End of Week 2 Capstone Log*
-
-**You crushed Week 2! 💪🎉**
