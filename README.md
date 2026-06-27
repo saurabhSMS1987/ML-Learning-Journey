@@ -1,11 +1,11 @@
 # 🚀 AI/ML Engineer Learning Journey
 
 **Enterprise AI/ML Engineer Roadmap** | 26 Weeks | Full-Stack Development  
-**Status:** Week 1 ✅ COMPLETE | Building Toward Week 26 🎯
+**Status:** Week 1-2 ✅ COMPLETE | Building Toward Week 26 🎯
 
-[![GitHub Stars](https://img.shields.io/github/stars/[your-username]/ML-Learning-Journey?style=social)](https://github.com/[your-username]/ML-Learning-Journey)
-[![GitHub Followers](https://img.shields.io/github/followers/[your-username]?style=social)](https://github.com/[your-username])
-![Week Status](https://img.shields.io/badge/Week-1%2F26-brightgreen?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/saurabhSMS1987/ML-Learning-Journey?style=social)](https://github.com/saurabhSMS1987/ML-Learning-Journey)
+[![GitHub Followers](https://img.shields.io/github/followers/saurabhSMS1987?style=social)](https://github.com/saurabhSMS1987)
+![Week Status](https://img.shields.io/badge/Week-2%2F26-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square)
 ![Learning](https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square)
@@ -21,79 +21,56 @@ I'm **learning machine learning in public** and documenting every step of my jou
 ## 📍 Current Progress
 
 ### Week 1: Python Foundations ✅ COMPLETE
+- Python fundamentals, SQL basics, Data visualization
+- **7/7 days | 150+ lessons | 2 projects | 40+ hours**
+- Projects: Mental Health Analysis | Superstore EDA
 
-```
-✅ Python Functions (Advanced)
-✅ Loops & Control Flow  
-✅ Data Structures (Lists, Dictionaries)
-✅ File Handling & I/O
-✅ SQL Fundamentals
-✅ Data Visualization
-✅ 2 Real Projects Built
-✅ 150+ Lessons Completed
-✅ 75+ Problems Solved
-```
+### Week 2: Advanced Data Science & ML ✅ COMPLETE
+- Advanced SQL (subqueries, joins) | File importing (8+ formats) | DataFrame mastery
+- **First ML Models:** Linear Regression | Logistic Regression | Random Forest
+- **APIs & GenAI:** OpenAI API | Database connections | JSON/APIs
+- **7/7 days | 250+ lessons | 5+ ML models | 56+ hours**
+- Project: Supply Chain Analytics
 
-**Quick Stats:**
-| Metric | Value |
-|--------|-------|
-| Days Completed | 7/7 (100%) |
-| Lessons | 150+ |
-| Problems Solved | 75+ |
-| Projects | 2 |
-| GitHub Ready | ✅ Yes |
+**Combined Stats:**
+| Metric | Week 1 | Week 2 | Total |
+|--------|--------|--------|-------|
+| Days | 7/7 | 7/7 | 14/14 ✅ |
+| Lessons | 150+ | 250+ | 400+ |
+| ML Models | 0 | 5+ | 5+ |
+| Projects | 2 | 1 | 3 |
+| Hours | 40+ | 56+ | 96+ |
 
 ---
 
 ## 🗺️ The 26-Week Roadmap
 
 ### Phase 1: Python + scikit-learn (Weeks 1-8)
-**Status: Week 1 ✅ | Weeks 2-8 📚**
-- Python fundamentals & OOP
-- NumPy arrays & Pandas DataFrames
-- Exploratory Data Analysis
-- Machine Learning workflow
-- 7 complete ML projects
+**Status: Weeks 1-2 ✅ | Weeks 3-8 📚**
+- ✅ Week 1: Python fundamentals & SQL basics
+- ✅ Week 2: Advanced SQL, file I/O, first ML models
+- Week 3-8: Model optimization, ensembles, deep dives
 - **Target:** Junior Data Scientist
 
 ### Phase 2: Databricks + PySpark (Weeks 9-14)
 **Status: Planned 🔧**
-- Distributed computing with PySpark
-- Databricks platform
-- MLflow experiment tracking
-- Big data processing
+- Distributed computing, MLflow, Big data
 - **Target:** ML Engineer
 
 ### Phase 3: Claude Code + MCP + Agents (Weeks 15-18)
 **Status: Planned 🤖**
-- AI-assisted development
-- MCP architecture
-- Building autonomous agents
-- Advanced AI systems
+- AI-assisted development, MCP, Autonomous agents
 - **Target:** AI Engineer
 
 ### Phase 4: Azure Cloud + MLOps (Weeks 19-22)
 **Status: Planned ☁️**
-- Azure cloud fundamentals
-- Model deployment
-- Docker containerization
-- MLOps pipelines
+- Cloud deployment, Docker, MLOps pipelines
 - **Target:** MLOps Engineer
 
 ### Phase 5: Deep Learning + GenAI (Weeks 23-26)
 **Status: Planned 🧠**
-- Neural networks & TensorFlow
-- Large Language Models
-- RAG systems
-- GenAI applications
+- Neural networks, LLMs, RAG systems
 - **Target:** Senior AI Engineer
-
-### Phase 6: Engineering Excellence (Ongoing)
-**Status: Always 🎓**
-- Clean code & testing
-- CI/CD & monitoring
-- System design
-- Continuous growth
 
 ---
 
@@ -102,38 +79,23 @@ I'm **learning machine learning in public** and documenting every step of my jou
 ### Week 1 Projects
 
 #### 1. 📊 International Student Mental Health Analysis
-**Date:** Day 4 | **Tools:** SQL, DataCamp  
-**Dataset:** 286 students, real-world study
+**Tools:** SQL, DataCamp | **Records:** 286 students
+- Key Finding: Years 4-5 peak stress - "middle-stay crisis"
+- [View Project](./Projects/Day-4-Mental-Health-Analysis)
 
-🔍 **Key Finding:** Years 4-5 show peak acculturative stress - the "middle-stay crisis"
+#### 2. 📈 Superstore Sales EDA
+**Tools:** Python, Pandas | **Records:** 9,801
+- Key Findings: Technology leads ($836k), West region dominates, CA leading state
+- [View Project](./Projects/Day-7-Superstore-EDA)
 
-📁 **Location:** [Day-4-Mental-Health-Analysis](./Projects/Day-4-Mental-Health-Analysis)
+### Week 2 Projects
 
-**What You'll Learn:**
-- SQL GROUP BY and aggregation
-- Statistical analysis
-- Data-driven insights
-- Professional reporting
-
----
-
-#### 2. 📈 Superstore Sales Exploratory Data Analysis
-**Date:** Day 7 | **Tools:** Python, Pandas, Matplotlib  
-**Dataset:** 9,801 records, 18 columns
-
-💡 **Key Findings:**
-- Technology: Highest sales ($836k)
-- West Region: Top performer
-- California: Leading state
-- Geographic concentration opportunities
-
-📁 **Location:** [Day-7-Superstore-EDA](./Projects/Day-7-Superstore-EDA)
-
-**What You'll Learn:**
-- Data exploration workflow
-- Pandas data manipulation
-- Matplotlib visualization
-- Business insight generation
+#### 3. 🏭 Supply Chain Analytics & Modeling
+**Tools:** Python, scikit-learn | **Models:** 5+ built
+- Built Linear Regression, Logistic Regression, Random Forest
+- Dataset analysis & prediction modeling
+- Model1 baseline implementation
+- [View Project](./Projects/Week-2-Supply-Chain-Analytics)
 
 ---
 
@@ -141,21 +103,23 @@ I'm **learning machine learning in public** and documenting every step of my jou
 
 ### Currently Using
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37726)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458)
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791)
 ![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991)
 
-### Learning Path Ahead
-```
-Phase 1: PySpark, scikit-learn, preprocessing
-Phase 2: Databricks, MLflow, distributed ML
-Phase 3: Claude Code, MCP, AI agents
-Phase 4: Azure, Docker, MLOps
-Phase 5: TensorFlow, LLMs, GenAI
-Phase 6: Production systems, best practices
-```
+### Week 1-2 Skills Mastered
+✅ Python fundamentals & OOP  
+✅ NumPy arrays & operations  
+✅ Pandas DataFrames (transform, aggregate, merge)  
+✅ SQL (basic + advanced subqueries)  
+✅ File I/O (8+ formats)  
+✅ Linear & Logistic Regression  
+✅ Random Forest models  
+✅ Scikit-learn workflow  
+✅ OpenAI API integration  
+✅ Data visualization (Matplotlib, Tableau)  
 
 ---
 
@@ -165,134 +129,121 @@ Phase 6: Production systems, best practices
 ML-Learning-Journey/
 │
 ├── Week-1/                           ✅ COMPLETE
-│   ├── Day-1/
-│   │   └── Day_1_Learning_Log.md
-│   ├── Day-2/ through Day-7/
-│   │   └── [Learning logs & notebooks]
 │   ├── Week-1-Summary.md
-│   └── [All course notebooks]
+│   ├── Day-1/ through Day-7/
+│   │   └── [Learning logs & notebooks]
+│   └── Projects/
+│       ├── Day-4-Mental-Health-Analysis/
+│       └── Day-7-Superstore-EDA/
 │
-├── Projects/
-│   ├── Day-4-Mental-Health-Analysis/
-│   │   ├── README.md
-│   │   ├── analysis.ipynb
-│   │   ├── query.sql
-│   │   └── students.csv
-│   │
-│   └── Day-7-Superstore-EDA/
-│       ├── README.md
-│       ├── analysis.ipynb
-│       └── Superstore_Sales_Dataset.csv
+├── Week-2/                           ✅ COMPLETE
+│   ├── Week-2-Summary.md
+│   ├── Day-1/ through Day-7/
+│   │   └── [Learning logs & notebooks]
+│   └── Projects/
+│       └── Supply-Chain-Analytics/
 │
-├── Week-2/ (Coming soon)
-├── Week-3/ through Week-26/ (Planned)
+├── Week-3/ through Week-26/          (Planned)
 │
+├── README.md                         (This file!)
 ├── Resources.md                      (Course links & materials)
-├── LEARNING-LOG-TEMPLATE.md         (For daily documentation)
-└── README.md                         (This file!)
+└── LEARNING-LOG-TEMPLATE.md         (For daily documentation)
 ```
 
 ---
 
-## 📚 Learning Resources
+## 📚 Learning Resources Used
 
-### Courses Used in Week 1
-
+### Week 1 & 2 Courses
 | Course | Platform | Status |
 |--------|----------|--------|
 | Complete Data Science Bootcamp | Udemy (Krish Naik) | ✅ In Progress |
-| Python Fundamentals | DataCamp | ✅ Completed |
-| SQL for Data Analysis | DataCamp | ✅ Completed |
+| Python for Data Analysis: Pandas & NumPy | Coursera | ✅ Completed |
+| Advanced SQL & Subqueries | DataCamp | ✅ Completed |
+| Importing Data (8+ formats) | DataCamp | ✅ Completed |
 | Supervised ML: Regression & Classification | DeepLearning.AI | ✅ In Progress |
+| Foundations of Data Pipelines | Analyst Builder | ✅ Completed |
+| OpenAI API & ChatbotBuilding | DataCamp | ✅ Completed |
 | Intro to AI | Coursera (IBM) | ✅ Completed |
-| Intro to Gen AI | Coursera (Duke) | ✅ Completed |
-| Tableau & Data Visualization | Analyst Builder | ✅ Started |
+| Tableau Data Connections | Tableau Learning | ✅ Started |
 
-**View All:** [Resources.md](./Resources.md)
+**Full List:** [Resources.md](./Resources.md)
 
 ---
 
 ## 🚀 Getting Started
 
-### Want to see Week 1 work?
-
 ```bash
-# Clone this repository
-git clone https://github.com/[your-username]/ML-Learning-Journey.git
+# Clone repository
+git clone https://github.com/saurabhSMS1987/ML-Learning-Journey.git
 
-# Navigate to project
-cd ML-Learning-Journey
-
-# View Week 1 summary
+# View Week summaries
 open Week-1/Week-1-Summary.md
+open Week-2/Week-2-Summary.md
 
-# Explore projects
-cd Projects/Day-4-Mental-Health-Analysis
-# or
-cd Projects/Day-7-Superstore-EDA
+# Explore daily logs
+cd Week-2/Day-1/
+open Week-2-Day-1-Learning-Log.md
+
+# View projects
+cd Projects/Week-2-Supply-Chain-Analytics/
 ```
-
-### Want to follow along?
-
-1. **Read:** [Week 1 Summary](./Week-1/Week-1-Summary.md)
-2. **Explore:** [Day 1 Learning Log](./Week-1/Day-1/Day_1_Learning_Log.md)
-3. **View:** [Projects](./Projects)
-4. **Follow:** Weekly updates as I progress
 
 ---
 
-## 📊 Learning Statistics
+## 📊 Overall Statistics
 
-### Week 1 Metrics
+### Total Progress
 ```
-Total Lessons Completed:    150+
-Problems Solved:            75+
-Code Examples:              25+
-Projects Built:             2
-Days Completed:             7/7 (100%)
-Consistency:                Perfect
-Hours Invested:             40+
-GitHub Commits:             Multiple
+Weeks Completed:        2/26 (7.7%)
+Days Completed:         14/14 (100%)
+Total Lessons:          400+
+ML Models Built:        5+
+Projects Completed:     3
+Total Hours:            96+
+Total Files:            60+
+Consistency:            Perfect ✅
 ```
 
-### Learning Quality
+### Learning Quality Ratings
 - **Python Fundamentals:** ⭐⭐⭐⭐⭐ (5/5)
-- **SQL Basics:** ⭐⭐⭐⭐ (4/5)
-- **Data Visualization:** ⭐⭐⭐⭐ (4/5)
-- **Project Quality:** ⭐⭐⭐⭐⭐ (5/5)
+- **SQL Skills:** ⭐⭐⭐⭐⭐ (5/5)
+- **Data Manipulation:** ⭐⭐⭐⭐⭐ (5/5)
+- **ML Models:** ⭐⭐⭐⭐ (4/5) - improving Week 3
 - **Documentation:** ⭐⭐⭐⭐⭐ (5/5)
+- **Overall Quality:** ⭐⭐⭐⭐⭐ (5/5)
 
 ---
 
 ## 🎯 Why This Repository?
 
-### For You (Learning)
-✅ **Structure** - Clear 26-week curriculum  
-✅ **Accountability** - Public commitment  
-✅ **Documentation** - Learn by explaining  
-✅ **Projects** - Real work samples  
-✅ **Growth Tracking** - Visible progress  
+### For Learners Like You
+✅ **Structured curriculum** - 26-week roadmap  
+✅ **Public accountability** - Transparent progress  
+✅ **Daily documentation** - Learn through explanation  
+✅ **Real projects** - Portfolio-building work  
+✅ **Complete code** - Working examples throughout  
 
 ### For Employers
-✅ **Dedication** - Consistent daily work  
+✅ **Dedication** - 14/14 days (100% consistency)  
 ✅ **Quality** - Professional documentation  
-✅ **Depth** - Detailed learning logs  
-✅ **Projects** - Working code samples  
-✅ **Growth** - Clear skill progression  
+✅ **Depth** - Detailed learning logs & projects  
+✅ **Growth** - Clear skill progression (Week 1 → Week 2)  
+✅ **Production-ready** - Complete, working code  
 
 ---
 
 ## 📈 Progress Timeline
 
 ```
-Week 1   ✅ Python Foundations
-Week 8   📅 ML Models Mastery
-Week 14  📅 Enterprise Systems
-Week 18  📅 AI Agents
-Week 22  📅 Cloud & Production
-Week 26  📅 GenAI Systems
+Week 1-2   ✅ Python Foundations + Advanced Data Science + First ML
+Week 3-8   📅 ML Mastery & Optimization
+Week 9-14  📅 Enterprise Systems (Databricks, Spark)
+Week 15-18 📅 AI Agents (Claude Code, MCP)
+Week 19-22 📅 Cloud & Production (Azure, MLOps)
+Week 23-26 📅 GenAI Systems (Deep Learning, LLMs)
 
-Total: ~1,000 hours | 27+ projects | Enterprise-ready skills
+Current: 2/26 weeks (7.7%) | Next: Week 3 Model Optimization
 ```
 
 ---
@@ -302,7 +253,6 @@ Total: ~1,000 hours | 27+ projects | Enterprise-ready skills
 > **"The expert in anything was once a beginner."**
 
 ### My Approach
-
 1. **Theory First** - Understand concepts deeply
 2. **Code Along** - Learn by doing
 3. **Practice Extensively** - 50+ problems per week
@@ -310,173 +260,159 @@ Total: ~1,000 hours | 27+ projects | Enterprise-ready skills
 5. **Document Everything** - Reinforce through writing
 6. **Stay Consistent** - Daily practice beats cramming
 
-### The 5-Step Learning Model
-
+### The Learning Model
 ```
-📖 Learn Theory
-   ↓
-💻 Code Along
-   ↓
-🎯 Practice Problems
-   ↓
-🔨 Build Projects
-   ↓
-📝 Document & Reflect
+📖 Learn Theory → 💻 Code Along → 🎯 Practice 
+    ↓
+🔨 Build Projects → 📝 Document & Reflect
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- **GitHub:** [https://github.com/saurabhSMS1987]
-- **LinkedIn:** [https://www.linkedin.com/in/saurabhshirgaokar/]
-- **Email:** [shirgaokar.saurabh@gmail.com]
+- **GitHub:** [https://github.com/saurabhSMS1987](https://github.com/saurabhSMS1987)
+- **LinkedIn:** [https://www.linkedin.com/in/saurabhshirgaokar/](https://www.linkedin.com/in/saurabhshirgaokar/)
+- **Email:** [shirgaokar.saurabh@gmail.com](mailto:shirgaokar.saurabh@gmail.com)
 
 ### Feedback & Collaboration
-- 💬 Found an error? Open an issue!
-- 🤝 Want to collaborate? Let's talk!
-- ⭐ Found this helpful? Star the repo!
-- 🔗 Want to share your journey? Connect with me!
+- 💬 Found something useful? Star the repo!
+- 🤝 Want to collaborate? Let's connect!
+- 📢 Following along? Share your journey!
+- 🔗 Questions? Open an issue!
 
 ---
 
-## 📖 Documentation Guide
+## 🎓 Learning by Week
 
-### Weekly Structure
-- **Monday-Friday:** Learning + Practice
-- **Saturday:** Project Building
-- **Sunday:** Documentation + Reflection
+### Week 1: Fundamentals
+- Python basics, advanced functions, OOP
+- SQL queries and aggregation
+- Data structures and file handling
+- 2 real projects
 
-### Daily Logs
-Each day includes:
-- Learning objectives
-- Detailed concept explanations
-- Code examples (3-5 per day)
-- Key takeaways
-- Honest reflections
-- Progress tracking
+### Week 2: Advanced Data Science
+- Advanced SQL (subqueries, joins)
+- File importing (8+ formats)
+- DataFrame mastery
+- First ML models (3 types)
+- OpenAI API integration
+- 1 capstone project
 
-**View:** [Week 1 Logs](./Week-1)
-
----
-
-## ✨ Special Features
-
-### 1. **Learning Logs**
-Professional daily documentation of learning journey
-- [Day 1 Log](./Week-1/Day-1/Day_1_Learning_Log.md)
-- [Days 2-7 Coming Soon]
-
-### 2. **Projects with README**
-Each project includes detailed explanation:
-- Problem statement
-- Solution approach
-- Key findings
-- How to run it
-
-### 3. **Code Examples Throughout**
-Every concept has working code you can run and learn from
-
-### 4. **Resource Links**
-Complete list of courses, platforms, and learning materials
-
-### 5. **Progress Tracking**
-Weekly summaries and overall progress toward goals
+### Week 3: Model Optimization (Next)
+- Cross-validation
+- Hyperparameter tuning
+- Ensemble methods
+- Unsupervised learning
+- Customer segmentation capstone
 
 ---
 
-## 🎓 What You'll Learn by Week 26
+## 📝 Documentation Quality
 
-### Technical Skills
-✅ Full Python stack (basic → advanced)  
-✅ SQL & database design  
-✅ Data analysis & visualization  
-✅ Machine learning algorithms  
-✅ Deep learning & neural networks  
-✅ Large language models & GenAI  
-✅ Cloud platforms (Azure)  
-✅ MLOps & deployment  
-✅ Distributed computing (Spark)  
-✅ AI agents & automation  
+Every day includes:
+- ✅ Learning objectives
+- ✅ Key concepts (theory & practice)
+- ✅ Working code examples
+- ✅ Challenges & solutions
+- ✅ Time breakdown
+- ✅ Key takeaways
+- ✅ Confidence level
+- ✅ Tomorrow's preview
 
-### Professional Skills
-✅ Documentation & communication  
-✅ Problem-solving approach  
-✅ Project management  
-✅ Code quality & testing  
-✅ Portfolio building  
-✅ Public learning  
-
-### Career Readiness
-✅ Portfolio with 27+ projects  
-✅ GitHub presence  
-✅ Job interview skills  
-✅ Senior engineer mindset  
+**All logs:** Professional, concise, GitHub-ready
 
 ---
 
 ## 🏆 Success Metrics
 
-### Week 1 Achievement ✅
-- 7/7 days completed (100%)
-- 150+ lessons finished
-- 2 professional projects
+### Week 1 ✅
+- 7/7 days (100%)
+- 150+ lessons
+- 2 projects
 - Perfect consistency
-- Ready for Week 2
 
-### Month 1 Goals
-- 8-9 ML projects
-- Full Phase 1 complete
-- Portfolio website (optional)
-- Job-interview ready portfolio
+### Week 2 ✅
+- 7/7 days (100%)
+- 250+ lessons
+- 5+ ML models
+- 1 capstone project
 
-### 6-Month Goals (Week 26)
-- 27+ professional projects
-- Enterprise-ready skills
-- Senior AI engineer level
-- Clear career path forward
-
----
-
-## 📝 Recent Updates
-
-**Week 1:** Python Foundations Complete ✅
-- All fundamentals mastered
-- 2 real projects built
-- Repository launched
-- Daily logs started
-
-**Next (Week 2):**
-- NumPy & Pandas mastery
-- Advanced data analysis
-- ML preprocessing
-- 2 new projects
+### Combined
+- **14/14 days (100%)**
+- **400+ lessons**
+- **5+ ML models**
+- **3 projects**
+- **96+ hours**
 
 ---
 
 ## 🚀 Ready to Learn?
 
-### Quick Links
-- 📖 [Day 1 Learning Log](./Week-1/Day-1/Day_1_Learning_Log.md)
-
-### Get Started
-1. Star ⭐ this repository
-2. Fork it for your own journey
-3. Follow along weekly
-4. Build your portfolio
-5. Connect with me!
+### Quick Start
+1. ⭐ **Star** this repo
+2. 📖 **Read** [Week-2-Summary.md](./Week-2/Week-2-Summary.md)
+3. 📂 **Explore** the daily learning logs
+4. 🔗 **Follow** for weekly updates
+5. 🤝 **Connect** on LinkedIn/GitHub
 
 ---
 
-## 🎯 Vision
+## 🌟 What's Special About This Journey
 
-**Week 1:** Learning foundational skills  
-**Week 8:** Building ML models like a data scientist  
-**Week 14:** Engineering systems like an ML engineer  
-**Week 22:** Deploying to production like an MLOps engineer  
-**Week 26:** Designing AI systems like a senior engineer  
+✅ **Transparent** - All work is public  
+✅ **Consistent** - Never skipped a day  
+✅ **Professional** - Production-quality documentation  
+✅ **Real Projects** - Actual datasets & problems  
+✅ **Searchable** - Easy to find what you need  
+✅ **Reproducible** - All code works & is tested  
 
-**The Goal:** Transform from student to **Enterprise AI/ML Engineer** 🚀
+---
+
+## 📍 Current Status
+
+```
+Progress: 2/26 weeks (7.7%)
+Days: 14/14 (100%)
+Consistency: Perfect ✅
+Quality: Excellent ⭐⭐⭐⭐⭐
+
+Week 1:  ████████████████████ COMPLETE ✅
+Week 2:  ████████████████████ COMPLETE ✅
+Week 3:  ░░░░░░░░░░░░░░░░░░░░ Starting next
+
+Next Milestone: Week 3 Model Optimization
+```
+
+---
+
+## ❓ FAQ
+
+**Q: Can I use this curriculum?**  
+A: Absolutely! Fork it, adapt it, make it your own.
+
+**Q: Why share your learning publicly?**  
+A: Accountability, helping others, and building a portfolio simultaneously.
+
+**Q: How much time per day?**  
+A: ~8 hours daily (courses, practice, projects, documentation)
+
+**Q: Are the projects real?**  
+A: Yes! Real datasets, real analysis, working code.
+
+**Q: Can I follow along?**  
+A: Yes! Use this as your learning path.
+
+---
+
+## 🙏 Acknowledgments
+
+- **DataCamp** - Interactive courses & practice
+- **Udemy** - In-depth bootcamps (Krish Naik)
+- **DeepLearning.AI** - ML fundamentals
+- **Coursera** - Academic structure
+- **Analyst Builder** - Practical data engineering
+- **Open Source Community** - Tools & inspiration
 
 ---
 
@@ -484,7 +420,7 @@ Weekly summaries and overall progress toward goals
 
 > "The best time to plant a tree was 20 years ago. The second best time is now."
 
-I'm learning in public because:
+Learning in public because:
 - **Accountability** keeps me consistent
 - **Documentation** reinforces learning
 - **Sharing** helps others
@@ -493,76 +429,35 @@ I'm learning in public because:
 
 ---
 
-## 🌟 Support This Journey
-
-- ⭐ **Star** this repo (shows appreciation)
-- 🔗 **Share** with others learning ML
-- 💬 **Comment** with suggestions
-- 🤝 **Collaborate** if interested
-- 📢 **Follow** for weekly updates
-
----
-
-## 📍 Current Status
-
-```
-Week 1:        ████████████████████ COMPLETE ✅
-Week 2-8:      ░░░░░░░░░░░░░░░░░░░░ Starting soon
-Week 9-26:     ░░░░░░░░░░░░░░░░░░░░ Coming ahead
-
-Progress: 1/26 weeks (3.8%)
-Commitment: 100% consistent
-Next Update: Weekly
-```
-
----
-
-## ❓ FAQ
-
-**Q: Why public learning?**  
-A: Accountability, community, and helping others on similar journeys.
-
-**Q: Can I use this curriculum?**  
-A: Yes! Fork it, adapt it, make it your own.
-
-**Q: How often do you update?**  
-A: Weekly (every Sunday) with full week's work documented.
-
-**Q: Is this structured?**  
-A: Yes! 26-week curriculum with clear goals and milestones.
-
-**Q: Can I follow along?**  
-A: Absolutely! Use this as your learning path too.
-
----
-
-## 🙏 Acknowledgments
-
-- **DeepLearning.AI** - Conceptual foundation
-- **Krish Naik** - Coding patterns & best practices
-- **DataCamp** - Interactive practice
-- **Coursera** - Broader AI context
-- **Open Source Community** - Resources & tools
-
----
-
 ## 🚀 Let's Build Something Great!
 
-This repository represents a commitment to:
-- 📚 Continuous learning
-- 💻 Practical skill building
-- 📝 Professional documentation
-- 🎯 Clear career progression
-- 🌟 Excellence in execution
-
-**Follow the journey. Build alongside. Achieve together.**
+This repository represents:
+- 📚 **Continuous learning** - Never stop growing
+- 💻 **Practical skills** - Working code matters
+- 📝 **Professional docs** - Clear communication
+- 🎯 **Career progression** - Clear path forward
+- 🌟 **Excellence** - In everything we do
 
 ---
 
-**Status: Week 1 ✅ | Week 2 Starting Next 📚 | Week 26 Goal 🎯**
+## 📊 By the Numbers
 
-*Last Updated: [Date]*  
-*Next Update: [Next Week]*
+```
+Weeks:          2/26 (7.7%)
+Days:           14/14 (100%) ✅
+Hours:          96+ invested
+Lessons:        400+ completed
+Projects:       3 finished
+ML Models:      5+ built
+Code Files:     60+ created
+Consistency:    Perfect ✅
+```
+
+---
+
+**Status:** Weeks 1-2 ✅ Complete | Week 3 Starting Next 📚  
+**Progress:** 2/26 weeks (7.7%) | 14/14 days (100%)  
+**Next Update:** Weekly
 
 ---
 
@@ -572,11 +467,14 @@ This repository represents a commitment to:
 
 ---
 
-### ⭐ If you find this helpful, consider:
-- Starring the repository
-- Sharing with others
-- Following for updates
-- Contributing ideas
-- Building your own version
+### 🌟 Support This Journey
 
-**Happy Learning! 🎉**
+- ⭐ **Star** the repository
+- 🔗 **Share** with others learning ML
+- 💬 **Comment** with ideas
+- 🤝 **Collaborate** if interested
+- 📢 **Follow** for weekly updates
+
+---
+
+**Happy Learning! 🎉 Let's transform into Enterprise AI Engineers!**
