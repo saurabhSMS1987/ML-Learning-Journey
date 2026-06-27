@@ -80,14 +80,7 @@ Week-2/
 │   ├── Model1.ipynb
 │   ├── tokenized_access_logs.csv
 │   └── Supply-Chain-Analytics-README.md
-│
-└── Projects/
-    └── Supply-Chain-Analytics/
-        ├── README.md
-        ├── Model1.ipynb
-        └── datasets/
-            ├── DataCoSupplyChainDataset.csv
-            └── DescriptionDataCoSupplyChain.csv
+
 ```
 
 ---
