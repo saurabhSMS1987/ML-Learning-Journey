@@ -1,8 +1,6 @@
 # Week 2 Summary: Advanced Data Science & ML
 
-**Status:** ✅ COMPLETE  
-**Duration:** 7 days | **Hours:** 56+ | **Consistency:** 7/7 (100%)
-
+**Status:** ✅ COMPLETE 
 ---
 
 ## 📊 Week 2 Overview
@@ -17,7 +15,6 @@
 | **Datasets Used** | 8+ |
 | **Files Created** | 45+ |
 | **Projects** | 1 capstone |
-| **Total Hours** | 56+ |
 
 ---
 
@@ -79,18 +76,9 @@ Week-2/
 ├── Day-7/ ✅
 │   ├── Week-2-Day-7-Learning-Log.md
 │   ├── DataCoSupplyChainDataset.csv
-│   ├── DescriptionDataCoSupplyChain.csv
 │   ├── Model1.ipynb
-│   ├── tokenized_access_logs.csv
-│   └── Supply-Chain-Analytics-README.md
-│
-└── Projects/
-    └── Supply-Chain-Analytics/
-        ├── README.md
-        ├── Model1.ipynb
-        └── datasets/
-            ├── DataCoSupplyChainDataset.csv
-            └── DescriptionDataCoSupplyChain.csv
+
+
 ```
 
 ---
@@ -207,80 +195,6 @@ Week-2/
 
 ---
 
-## 📊 Statistics
-
-| Category | Week 1 | Week 2 | Combined |
-|----------|--------|--------|----------|
-| **Days** | 7 | 7 | 14 |
-| **Lessons** | 150+ | 250+ | 400+ |
-| **ML Models** | 0 | 5+ | 5+ |
-| **Datasets** | 2 | 8+ | 10+ |
-| **Files** | 15+ | 45+ | 60+ |
-| **Hours** | 40+ | 56+ | 96+ |
-| **Projects** | 2 | 1 | 3 |
-
----
-
-## 🏆 Best Achievements
-
-**Day 5 - First ML Model** 🚀
-- Built first working ML model
-- Random Forest & Linear Regression working
-- Model saved as .pkl file
-- Real data (heart disease dataset)
-
-**Day 7 - Capstone Project** 🎉
-- Supply Chain Analytics project
-- 5+ models built & trained
-- Professional documentation
-- GitHub-ready deliverable
-
-**Consistency** 💪
-- 14/14 days (100%)
-- Never skipped a day
-- 56+ hours in Week 2 alone
-- Perfect execution
-
----
-
-## 🎓 Skills Developed
-
-### Technical Skills
-- ✅ Advanced SQL expert
-- ✅ File I/O mastery (8+ formats)
-- ✅ DataFrame operations expert
-- ✅ Began ML modeling
-- ✅ AI API integration
-- ✅ Tableau basics
-
-### Professional Skills
-- ✅ Code quality
-- ✅ Documentation
-- ✅ Project structure
-- ✅ Version control ready
-- ✅ Portfolio-quality work
-
-### Career Skills
-- ✅ Problem-solving
-- ✅ Debugging
-- ✅ Learning systematically
-- ✅ Professional communication
-- ✅ Building in public
-
----
-
-## 📈 Progress Tracking
-
-```
-Week 1: ████████████████████ (Fundamentals)
-Week 2: ████████████████████ (Advanced + ML)
-Week 3: ░░░░░░░░░░░░░░░░░░░░ (Model Optimization)
-
-Total: 2/26 weeks (7.7%) | 14/14 days (100%) | 96+ hours invested
-```
-
----
-
 ## 🚀 Week 3 Preview
 
 **Focus:** Advanced ML & Model Optimization
@@ -303,29 +217,6 @@ Total: 2/26 weeks (7.7%) | 14/14 days (100%) | 96+ hours invested
 6. **Consistency beats intensity** - 7/7 days beats cramming
 7. **Documentation matters** - Professional logs build portfolio
 8. **Real data teaches best** - 8+ datasets beat toy examples
-
----
-
-## ✨ What Makes Week 2 Special
-
-**Turning Point:** You went from *learning tools* to *building with tools*
-
-**Week 1:** "How do I use Python?"  
-**Week 2:** "I can build ML models!"  
-**Week 3:** "I can optimize ML models!"  
-**Week 4+:** "I can build production systems!"
-
----
-
-## 📊 Code Quality Metrics
-
-| Metric | Rating |
-|--------|--------|
-| **Code Cleanliness** | ⭐⭐⭐⭐⭐ |
-| **Documentation** | ⭐⭐⭐⭐⭐ |
-| **Organization** | ⭐⭐⭐⭐⭐ |
-| **Reproducibility** | ⭐⭐⭐⭐⭐ |
-| **Professional Quality** | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -373,42 +264,4 @@ Total: 2/26 weeks (7.7%) | 14/14 days (100%) | 96+ hours invested
 
 ---
 
-## 🚀 Ready for Week 3?
-
-**YES! ✅**
-
-You have:
-- ✅ Strong SQL skills
-- ✅ File I/O mastery
-- ✅ DataFrame expertise
-- ✅ First ML models
-- ✅ API integration knowledge
-- ✅ Professional documentation
-- ✅ Perfect consistency
-
-**You're ready to take your ML skills to the next level!**
-
----
-
 **Week 2 Complete!** 🎉
-
-Next: Week 3 - Model Optimization & Advanced ML
-
----
-
-*End of Week 2 Summary*
-
-**Progress:** 2/26 weeks (7.7%) | **Consistency:** 14/14 days (100%)
-
----
-
-## 📁 How to Use This Document
-
-1. **GitHub:** Place in Week-2/ folder
-2. **Portfolio:** Reference for your learning journey
-3. **Review:** Check before starting Week 3
-4. **Motivation:** Celebrate your progress!
-
----
-
-**You crushed Week 2! 💪**
