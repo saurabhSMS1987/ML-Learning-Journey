@@ -1,6 +1,6 @@
 # Week 2: Day 5 Learning Log
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 12/14 days (86%)
 
 ---
@@ -213,16 +213,6 @@ print(f'Prediction: {prediction[0]:.2f}')
 
 ---
 
-## 📊 Time Breakdown
-
-- ML Theory: 2 hours
-- Linear Regression: 2 hours
-- Scikit-learn Practice: 2.5 hours
-- Advanced Joins: 1 hour
-- Model Persistence: 0.5 hours
-
----
-
 ## 💡 Key Takeaways
 
 1. **ML Workflow:** Load → Prepare → Split → Train → Evaluate
@@ -231,16 +221,6 @@ print(f'Prediction: {prediction[0]:.2f}')
 4. **Pickle:** Easy way to save Python objects
 5. **Linear Regression:** Simple, interpretable, good baseline
 6. **Scikit-learn:** Standard ML library; consistent API
-
----
-
-## 🎯 Confidence Level: 7.5/10
-
-- Good understanding of ML workflow
-- Can build & train models
-- Understand basic evaluation
-- Comfortable with scikit-learn syntax
-- Ready to improve models (Week 3 focus)
 
 ---
 
