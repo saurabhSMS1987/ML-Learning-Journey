@@ -19,8 +19,6 @@
 - ✅ Cross-validation expert
 - ✅ Hyperparameter tuning mastery
 - ✅ Ensemble methods understanding
-- ✅ 3-5 optimized models
-- ✅ Professional capstone project
 
 ---
 
