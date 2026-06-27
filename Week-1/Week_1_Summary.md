@@ -1,6 +1,6 @@
 # Week 1 Summary: Python & SQL Foundations
 
-**Week:** 1 of 26  
+**Week:** 1 of Approx 26
 **Status:** ✅ COMPLETE  
 **Consistency:** 7/7 Days (100%)  
 **Achievement:** Foundations Mastered
