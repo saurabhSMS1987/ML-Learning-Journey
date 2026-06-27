@@ -1,6 +1,6 @@
 # Week 2: Day 2 Learning Log
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 9/14 days (64%)
 
 ---
@@ -193,15 +193,6 @@ filtered['discount_price'] = filtered['price'] * 0.9
 
 ---
 
-## 📊 Time Breakdown
-
-- Advanced SQL (Subqueries): 2.5 hours
-- Data Pipelines: 1.5 hours
-- File Importing: 3.5 hours
-- Practice & Code Examples: 0.5 hours
-
----
-
 ## 💡 Key Takeaways
 
 1. **Subqueries:** Powerful for filtering with complex conditions
@@ -210,16 +201,6 @@ filtered['discount_price'] = filtered['price'] * 0.9
 4. **File formats:** Different sources need different approaches
 5. **Exporting:** Always save processed data for downstream use
 6. **Error handling:** Real data is messy; handle gracefully
-
----
-
-## 🎯 Confidence Level: 8.5/10
-
-- Strong understanding of subqueries
-- Can import any common file format
-- Understand pipeline concepts
-- Ready to handle real-world data sources
-- Comfortable with error handling
 
 ---
 
