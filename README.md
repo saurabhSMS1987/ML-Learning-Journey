@@ -155,6 +155,7 @@ ML-Learning-Journey/
 ## 📚 Learning Resources Used
 
 ### Week 1 & 2 Courses
+### Goal is not to complete all courses. Goal is to cover content across multiple courses over time
 | Course | Platform | Status |
 |--------|----------|--------|
 | Complete Data Science Bootcamp | Udemy (Krish Naik) | ✅ In Progress |
