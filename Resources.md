@@ -40,7 +40,6 @@ Interactive online platform for data science and Python learning.
 | Working with OpenAI API | 8 | API fundamentals, models, responses |
 | Model Validation | 12 | Cross-validation, ROC-AUC, metrics |
 
-**Total DataCamp Lessons:** 250+ (Week 2 alone)  
 **Link:** https://www.datacamp.com
 
 ---
@@ -228,28 +227,6 @@ scipy       - Scientific computing
 3. **Practice** (DataCamp, Analyst Builder) - Interactive exercises
 4. **Project Build** (Real data) - Apply skills
 5. **Document** (GitHub) - Record learning
-
-### Time Breakdown
-
-**Week 1 (40+ hours):**
-- Theory/Concepts: 25%
-- Interactive Practice: 40%
-- Project Building: 25%
-- Documentation: 10%
-
-**Week 2 (56+ hours):**
-- SQL Theory: 15%
-- File I/O Practice: 15%
-- DataFrame Operations: 25%
-- ML Modeling: 30%
-- GenAI API: 10%
-- Documentation: 5%
-
-**Combined (96+ hours):**
-- Structured Learning: 60%
-- Hands-on Practice: 25%
-- Project Building: 10%
-- Documentation: 5%
 
 ---
 
@@ -468,20 +445,6 @@ df = pd.read_sql('SELECT * FROM table', engine)
 
 ---
 
-## 📊 Resource Summary
-
-| Category | Week 1 | Week 2 | Total |
-|----------|--------|--------|-------|
-| **Courses** | 10+ | 15+ | 25+ |
-| **Platforms** | 5 | 7 | 7 |
-| **Lessons** | 150+ | 250+ | 400+ |
-| **Tools** | 6 | 8 | 8 |
-| **Datasets** | 2 | 8+ | 10+ |
-| **Projects** | 2 | 1 | 3 |
-| **Hours** | 40+ | 56+ | 96+ |
-
----
-
 ## 🎯 How to Use These Resources
 
 ### Week 1 Complete ✅
@@ -524,12 +487,6 @@ df = pd.read_sql('SELECT * FROM table', engine)
 
 **Last Updated:** Week 2 Complete ✅  
 **Next Update:** Week 3 resources added
-
----
-
-**Total Investment:** 96+ hours of structured learning  
-**Outcome:** 400+ lessons, 5+ ML models, 3 projects, GitHub portfolio  
-**Quality:** Professional, production-ready code & documentation
 
 ---
 
