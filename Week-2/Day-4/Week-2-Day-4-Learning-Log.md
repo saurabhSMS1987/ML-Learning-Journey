@@ -230,16 +230,6 @@ print(top_sales)
 
 ---
 
-## 📊 Time Breakdown
-
-- DataFrame Transformations: 1.5 hours
-- Groupby & Aggregations: 2 hours
-- Indexing & Slicing: 2 hours
-- Merging & Joining: 2 hours
-- Practice: 0.5 hours
-
----
-
 ## 💡 Key Takeaways
 
 1. **Groupby:** Most powerful aggregation tool
@@ -248,16 +238,6 @@ print(top_sales)
 4. **Merge types:** Different joins for different needs
 5. **Apply:** Flexible for custom transformations
 6. **Index matters:** Proper indexing makes operations faster
-
----
-
-## 🎯 Confidence Level: 9/10
-
-- Excellent understanding of groupby
-- Comfortable with all indexing methods
-- Confident in merge operations
-- Can transform data efficiently
-- Ready for ML data prep
 
 ---
 
