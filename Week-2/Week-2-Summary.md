@@ -76,10 +76,8 @@ Week-2/
 ├── Day-7/ ✅
 │   ├── Week-2-Day-7-Learning-Log.md
 │   ├── DataCoSupplyChainDataset.csv
-│   ├── DescriptionDataCoSupplyChain.csv
 │   ├── Model1.ipynb
-│   ├── tokenized_access_logs.csv
-│   └── Supply-Chain-Analytics-README.md
+
 
 ```
 
