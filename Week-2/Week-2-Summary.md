@@ -17,7 +17,6 @@
 | **Datasets Used** | 8+ |
 | **Files Created** | 45+ |
 | **Projects** | 1 capstone |
-| **Total Hours** | 56+ |
 
 ---
 
