@@ -1,8 +1,6 @@
 # Week 2 Summary: Advanced Data Science & ML
 
-**Status:** ✅ COMPLETE  
-**Duration:** 7 days | **Hours:** 56+ | **Consistency:** 7/7 (100%)
-
+**Status:** ✅ COMPLETE 
 ---
 
 ## 📊 Week 2 Overview
