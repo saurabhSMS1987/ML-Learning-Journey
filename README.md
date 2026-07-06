@@ -192,7 +192,7 @@ ML-Learning-Journey/
 | Foundations of Data Pipelines | Analyst Builder | ✅ Completed |
 | OpenAI API & ChatbotBuilding | DataCamp | ✅ Completed |
 | Intro to AI | Coursera (IBM) | ✅ Completed |
-| Tableau Data Connections | Tableau Learning | ✅ Started |
+| Tableau Data Connections | Tableau Learning |
 
 **Full List:** [Resources.md](./Resources.md)
 
