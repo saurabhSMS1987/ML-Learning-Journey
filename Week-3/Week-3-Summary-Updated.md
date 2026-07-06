@@ -2,7 +2,7 @@
 
 **Status:** ✅ COMPLETE  
 **Duration:** 7 days | **Consistency:** 21/21 (100%)  
-**Hours:** 56+ | **Progress:** 3/26 weeks (11.5%)
+**Progress:** 3/26 weeks (11.5%)
 
 ---
 
