@@ -94,7 +94,6 @@ I'm **learning machine learning in public** and documenting every step of my jou
 #### 2. 📈 Superstore Sales EDA
 **Tools:** Python, Pandas | **Records:** 9,801
 - Key Findings: Technology leads ($836k), West region dominates, CA leading state
-- [View Project](./Projects/Day-7-Superstore-EDA)
 
 ### Week 2 Projects
 
@@ -103,7 +102,6 @@ I'm **learning machine learning in public** and documenting every step of my jou
 - Built Linear Regression, Logistic Regression, Random Forest
 - Dataset analysis & prediction modeling
 - Model1 baseline implementation
-- [View Project](./Projects/Week-2-Supply-Chain-Analytics)
 
 ### Week 3 Projects
 
@@ -113,7 +111,6 @@ I'm **learning machine learning in public** and documenting every step of my jou
 - Data preprocessing & feature engineering
 - Visualization dashboard for investigation
 - Pattern identification & insights
-- [View Project](./Projects/Week-3-Fraud-Detection)
 
 ---
 
