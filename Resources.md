@@ -1,504 +1,276 @@
-# 📚 Learning Resources - Weeks 1 & 2
+# 📚 Learning Resources - Weeks 1, 2 & 3
 
-**Complete list of courses, platforms, and materials used in Weeks 1 & 2**
+**Complete list of courses, platforms, and materials used**
 
 ---
 
 ## 🎓 Courses & Platforms
 
-### DataCamp
-Interactive online platform for data science and Python learning.
+### Week 1 Courses
 
-**Week 1 Courses:**
-| Course | Lessons | Topics |
-|--------|---------|--------|
-| Python Basics & Lists | 16 | Variables, data types, lists |
-| SQL Relational Databases | 24 | Database fundamentals, querying |
-| Intermediate SQL | 25 | SELECT, WHERE, filtering |
-| SQL Aggregation | 10 | COUNT, SUM, AVG, GROUP BY |
-| SQL Sorting & Grouping | 13 | ORDER BY, LIMIT, grouping |
-| Matplotlib | 19 | Visualization, charts, plots |
-| Dictionaries & Pandas | 19 | Data structures, DataFrames |
-| Functions & Packages | 24 | Functions, NumPy, libraries |
-| Logic & Control Flow | 18 | If-else, loops, filtering |
-| Outer/Cross/Self JOINs | 14 | Advanced SQL joins |
+**DataCamp**
+- Python Basics & Lists
+- SQL Relational Databases
+- Intermediate SQL
+- SQL Aggregation
+- SQL Sorting & Grouping
+- Matplotlib Visualization
+- Dictionaries & Pandas
+- Functions & Packages
+- Logic & Control Flow
+- Outer/Cross/Self JOINs
 
-**Week 2 Courses:**
-| Course | Lessons | Topics |
-|--------|---------|--------|
-| Joining Data: Subqueries | 13 | Semi joins, anti joins, subqueries WHERE/SELECT/FROM |
-| Intro to Importing Data | 18 | CSV, Excel, file importing, basic I/O |
-| Importing Data from Other File Types | 18 | Pickle, SAS, Stata, HDF5, MATLAB |
-| Transforming DataFrames | 16 | Creating columns, applying functions, sorting |
-| Aggregating DataFrames | 14 | Groupby, pivot tables, cumulative stats |
-| Slicing & Indexing DataFrames | 13 | loc, iloc, multi-level indexes |
-| Data Merging Basics | 12 | Inner joins, one-to-many relationships |
-| Merging Tables with Different Join Types | 14 | Left, right, outer, self joins |
-| Advanced Merging & Concatenating | 15 | Filtering joins, concatenation, integrity |
-| Relational Databases in Python | 12 | Database connections, SQL from Python |
-| Importing JSON Data & APIs | 14 | JSON structure, API requests, pagination |
-| Working with OpenAI API | 8 | API fundamentals, models, responses |
-| Model Validation | 12 | Cross-validation, ROC-AUC, metrics |
+**Udemy**
+- Complete Data Science Bootcamp (Krish Naik)
 
-**Link:** https://www.datacamp.com
+**Coursera**
+- Intro to AI (IBM)
+- Intro to Gen AI (Duke)
+
+**Tableau**
+- Tableau Learning Portal Basics
 
 ---
 
-### Coursera
-University-level AI and data analysis courses.
+### Week 2 Courses
+
+**DataCamp (13+ new courses)**
+- Joining Data: Subqueries
+- Intro to Importing Data
+- Importing Data from Other File Types
+- Transforming DataFrames
+- Aggregating DataFrames
+- Slicing & Indexing DataFrames
+- Data Merging Basics
+- Merging Tables with Different Join Types
+- Advanced Merging & Concatenating
+- Relational Databases in Python
+- Importing JSON Data & APIs
+- Working with OpenAI API
+- Model Validation
+
+**Udemy**
+- Complete Data Science Bootcamp (sections: Linear Regression, Logistic Regression, scikit-learn)
+- Python for ML & DS Masterclass
+
+**DeepLearning.AI**
+- Supervised ML: Regression & Classification
+- Neural Networks Introduction
+
+**Analyst Builder**
+- Foundations of Data Pipelines
+- Pandas for Data Analysis
+- Connecting to Data Sources
+
+**Coursera**
+- Python for Data Analysis: Pandas & NumPy
+
+**Tableau**
+- Data Connections
+- Connect to Datasource
+- Explore Connected Data
+
+---
+
+### Week 3 Courses
+
+**Udemy - ML A-Z 2026**
+- Section 2: Data Preprocessing for ML (22 topics)
+  - Preprocessing techniques
+  - Handling missing values
+  - Categorical encoding
+  - Train/test splitting
+  - Feature scaling
+  
+- Section 6: Simple Linear Regression
+  - Linear regression theory
+  - OLS implementation
+  - Model training & prediction
+  - Visualization (real vs predicted)
+
+- Section 7: Multiple Linear Regression
+  - MLR theory & concepts
+  - Data preprocessing for MLR
+  - Model building with scikit-learn
+  - Comparing models
+  - Evaluating accuracy
+  
+- Section 8: Polynomial Linear Regression
+  - Polynomial concepts
+  - Degree selection
+  - Salary prediction applications
+  - Model comparison
+
+**Udemy - Python for ML & DS Masterclass**
+- Matplotlib: Subplots, Legends, Colors & Styles
+- Figure Objects & Anatomy of Plots
+- Figure Dimensions & Styling
+
+**Udemy - 2026 Python Data Analysis & Visualization Masterclass**
+- Matplotlib Advanced (Days 2, 4, 6)
+  - Subplots & layouts
+  - Legends & customization
+  - Colors, line styles, widths
+  - Plot labels & titles
+  - X & Y tick modification
+  - Bar plots & histograms
+  - Scatter plots & pie charts
+  - Matplotlib challenges (exercises)
+
+- Seaborn Visualization (Day 6)
+  - Intro to Seaborn
+  - load_dataset() method
+  - Scatterplots
+  - Lineplots
+  - relplot() method
+  - Resizing plots (aspect & height)
+
+**The AI Engineer Course 2026 (Udemy)**
+- Section 2: Data is Essential for Building AI (Days 3, 4, 6)
+  - Structured vs Unstructured data
+  - Data collection methods
+  - Labeled & unlabeled data
+  - Metadata fundamentals
+  - Machine Learning paradigms
+  - Supervised, Unsupervised, Reinforcement Learning
+  - Deep Learning introduction
+  - Robotics applications
+  - Computer Vision basics
+  - Traditional ML overview
+  - Generative AI fundamentals
+
+**Coursera - PACKT: Foundations of DS & ML with Python**
+- Module 4: Some Fun with Math (Theory - Day 3)
+  - Linear Algebra: Vectors
+  - Matrix operations (Matrix 1 & 2)
+  - Scaling to nD dimensions (2D to nD)
+
+**DeepLearning.AI**
+- Introduction to Generative AI for Software Development (Day 5)
+  - What is Generative AI?
+  - AI and Machine Learning basics
+  - ML examples
+  - Supervised Learning
+  - Introduction to Transformers
+  
+- AI Agents in LangGraph (Day 3)
+  - Agent fundamentals
+  - Building agents from scratch
+  - ReAct pattern implementation
+
+**DataCamp**
+- Introduction to Data Reshaping (Day 5)
+  - Wide vs long data formats
+  - Pivot operations
+  - Pivot tables
+  - Data reshaping techniques
+
+---
+
+## 📊 Course Summary Statistics
+
+| Category | Week 1 | Week 2 | Week 3 | Total |
+|----------|--------|--------|--------|-------|
+| **Platforms** | 5 | 7 | 8 | 8 |
+| **Courses** | 10+ | 15+ | 20+ | 45+ |
+| **Topics** | 150+ | 250+ | 250+ | 650+ |
+
+---
+
+## 🛠️ Technologies & Libraries Used
+
+### Core Python Libraries
+- **pandas** - Data manipulation & reshaping
+- **numpy** - Numerical computing
+- **matplotlib** - Visualization (basic & advanced)
+- **seaborn** - Statistical visualization
+- **scikit-learn** - Machine learning models
+- **sqlalchemy** - Database connections
+- **requests** - API requests
+- **openai** - OpenAI API integration
+- **pickle** - Model persistence
+
+### ML Models Built (Week 2-3)
+- Linear Regression
+- Logistic Regression
+- Random Forest
+- Multiple Linear Regression
+- Polynomial Linear Regression
+
+### Databases
+- SQL (PostgreSQL, SQLite)
+- Database connections via Python
+
+---
+
+## 📚 Datasets Used
 
 **Week 1:**
-| Course | University | Topics |
-|--------|-----------|--------|
-| Intro to AI | IBM | AI fundamentals, supervised learning |
-| Intro to Gen AI | Duke | Generative AI basics, LLMs |
+- International Student Mental Health (286 records)
+- Superstore Sales (9,801 records)
 
 **Week 2:**
-| Course | University | Topics |
-|--------|-----------|--------|
-| Python for Data Analysis: Pandas & NumPy | Google | NumPy arrays, Pandas DataFrames |
-| Supervised ML: Regression & Classification | DeepLearning.AI | ML algorithms, model selection |
+- Heart Disease dataset
+- Advertising dataset
+- Titanic dataset
+- Supply Chain dataset
 
-**Link:** https://www.coursera.org
-
----
-
-### Udemy - Complete ML Bootcamp (Krish Naik)
-
-Comprehensive bootcamp covering Python fundamentals through advanced ML.
-
-**Week 1 Topics:**
-- Python setup & syntax
-- Data types & structures
-- Functions & control flow
-- File handling
-- 35+ programming problems
-
-**Week 2 Topics:**
-- Linear Regression (theory + 3 parts)
-- Logistic Regression (theory + 3 parts)
-- Scikit-learn workflow & ML pipeline
-- Model persistence (pickle)
-- Feature engineering basics
-- Bias-variance tradeoff
-
-**Link:** https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/
-
----
-
-### DeepLearning.AI
-
-Conceptual ML foundations and deep learning theory.
-
-**Week 1:**
-- Supervised Learning basics
-- Cost Functions
-- Linear Regression theory
-
-**Week 2:**
-- Neural Networks introduction
-- Supervised learning review
-- Bias-Variance tradeoff
-- Model evaluation concepts
-
-**Link:** https://www.deeplearning.ai
-
----
-
-### Analyst Builder / Alex the Analyst
-
-Data engineering and visualization training.
-
-**Week 1:**
-| Course | Platform | Topics |
-|--------|----------|--------|
-| Tableau Fundamentals | Analyst Builder | Visualization basics |
-
-**Week 2:**
-| Course | Platform | Topics |
-|--------|----------|--------|
-| Foundations of Data Pipelines | Analyst Builder | ETL, data flow, pipeline design |
-| Pandas for Data Analysis | Analyst Builder | CSV importing, DB connections, exporting |
-| Connecting to Data Sources | Analyst Builder | Files, databases, APIs |
-
-**Link:** https://www.analystbuilder.com
-
----
-
-### Tableau Learning Portal
-
-Official Tableau training for data visualization.
-
-**Week 2:**
-| Course | Topics |
-|--------|--------|
-| Data Connections | Connecting datasources |
-| Connect to Datasource | Live vs extract |
-| Explore Connected Data | Data inspection |
-| Try It: Connect | Hands-on practice |
-
-**Link:** https://www.tableau.com/learn
-
----
-
-### OpenAI & GenAI Resources
-
-**Week 2:**
-| Resource | Topics |
-|----------|--------|
-| OpenAI API Docs | API fundamentals, models, pricing |
-| Chat Completions | Multi-turn conversations |
-| Few-shot Prompting | Prompt engineering |
-| API Authentication | Bearer tokens, headers |
-
-**Link:** https://platform.openai.com/docs
-
----
-
-## 💻 Tools & Software
-
-### Required Installations
-- **Python 3.9+** - Programming language
-- **Anaconda** - Python distribution and package manager
-- **VS Code** - Code editor
-- **Jupyter Notebook** - Interactive coding environment
-- **Git & GitHub** - Version control
-- **SQLite/PostgreSQL** - Database systems
-- **Tableau Public** - Data visualization (Week 2)
-
-### Python Libraries Used
-
-**Week 1:**
-```
-pandas      - Data manipulation
-numpy       - Numerical computing
-matplotlib  - Visualization
-datetime    - Date handling
-csv         - CSV file handling
-json        - JSON file handling
-math        - Mathematical functions
-```
-
-**Week 2 (Added):**
-```
-sklearn     - Scikit-learn (Linear/Logistic Regression, Random Forest)
-pickle      - Model persistence
-sqlalchemy  - Database connections
-requests    - API requests
-h5py        - HDF5 file handling
-scipy       - Scientific computing
-```
-
----
-
-## 📊 Datasets Used
-
-### Week 1 Projects
-**Day 4 Project:**
-- International Student Mental Health
-- 286 students (160 international, 126 domestic)
-- Source: DataCamp
-- Topics: Mental health diagnostic scores
-
-**Day 7 Project:**
-- Superstore Sales Dataset
-- 9,801 transaction records
-- 18 columns
-- Time period: Multiple years
-- Source: DataCamp/Kaggle
-
-### Week 2 Projects
-**Days 2-7 Datasets:**
-- Heart Disease Dataset (Day 5)
-- Advertising Dataset (Day 6)
-- Titanic Dataset (Day 6)
-- Supply Chain Dataset (Day 7)
-- 8+ total datasets used
-- Real-world data (not toy examples)
-- Various formats: CSV, JSON, SQL
-
----
-
-## 🎯 Learning Strategy
-
-### Multi-Source Approach
-1. **Theory First** (DeepLearning.AI, Coursera) - Understand concepts
-2. **Code Along** (Udemy, DataCamp) - Learn coding patterns
-3. **Practice** (DataCamp, Analyst Builder) - Interactive exercises
-4. **Project Build** (Real data) - Apply skills
-5. **Document** (GitHub) - Record learning
-
----
-
-## 📚 Reference Materials
-
-### SQL Reference (Week 1-2)
-**Basic Queries:**
-- SELECT, WHERE, GROUP BY
-- COUNT, SUM, AVG, MIN, MAX
-- ORDER BY, LIMIT, HAVING
-- DISTINCT, CASE statements
-
-**Advanced (Week 2):**
-- Subqueries (WHERE, SELECT, FROM)
-- Semi joins & anti joins
-- Set operations (UNION, INTERSECT, EXCEPT)
-- Window functions
-- CTEs (Common Table Expressions)
-
-### Python Reference
-
-**Data Types & Structures:**
-- Variables, integers, floats, strings
-- Lists, dictionaries, tuples, sets
-- NumPy arrays, Pandas Series & DataFrames
-
-**Control Flow:**
-- If-else statements
-- For/while loops
-- List comprehensions
-- Exception handling
-
-**Functions:**
-- Function definition & calling
-- Parameters & return values
-- Lambda functions
-- Built-in functions
-
-### Data Manipulation (Week 2)
-
-**NumPy:**
-- Array creation & indexing
-- Broadcasting
-- Element-wise operations
-- Statistical functions
-
-**Pandas:**
-- DataFrame creation & inspection
-- Selecting data (loc, iloc)
-- Filtering & boolean indexing
-- Groupby & aggregations
-- Pivot tables
-- Merging & concatenation
-- Apply & mapping functions
-
-### Machine Learning (Week 2)
-
-**Supervised Learning:**
-- Linear Regression (continuous prediction)
-- Logistic Regression (binary classification)
-- Random Forest (ensemble method)
-
-**Model Workflow:**
-1. Load & explore data
-2. Prepare features (X) & target (y)
-3. Split train/test (80/20)
-4. Create & train model
-5. Make predictions
-6. Evaluate (R², MSE, accuracy)
-7. Save model (pickle)
-
-**Evaluation Metrics:**
-- R² Score (regression)
-- Mean Squared Error (regression)
-- Accuracy (classification)
-- Precision & Recall (classification)
-- Confusion Matrix (classification)
-
-### File I/O Reference (Week 2)
-
-**CSV Files:**
-```python
-pd.read_csv('file.csv')
-df.to_csv('output.csv', index=False)
-```
-
-**Excel:**
-```python
-pd.read_excel('file.xlsx', sheet_name='Sheet1')
-df.to_excel('output.xlsx')
-```
-
-**JSON:**
-```python
-df.read_json('file.json')
-pd.json_normalize(nested_data)
-```
-
-**Pickle:**
-```python
-pickle.dump(model, open('model.pkl', 'wb'))
-model = pickle.load(open('model.pkl', 'rb'))
-```
-
-**Database:**
-```python
-from sqlalchemy import create_engine
-engine = create_engine('sqlite:///database.db')
-df = pd.read_sql('SELECT * FROM table', engine)
-```
+**Week 3:**
+- Position & Salaries dataset (Linear/Polynomial Regression)
+- 50 Startups dataset (Multiple Linear Regression)
+- Financial transaction data (20,000+ records - Fraud Detection)
 
 ---
 
 ## 🔗 Important Links
 
-**Learning Platforms:**
-- DataCamp: https://www.datacamp.com
-- Udemy: https://www.udemy.com
-- DeepLearning.AI: https://www.deeplearning.ai
-- Coursera: https://www.coursera.org
-- Analyst Builder: https://www.analystbuilder.com
+**Udemy Courses (Deloitte)**
+- ML A-Z 2026: https://deloittedevelopment.udemy.com/course/machinelearning/
+- Python for ML & DS Masterclass: https://deloittedevelopment.udemy.com/course/python-for-machine-learning-data-science-masterclass/
+- Python Data Analysis & Visualization 2026: https://deloittedevelopment.udemy.com/course/python-data-analysis-visualization/
+- The AI Engineer Course 2026: https://deloittedevelopment.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/
 
-**Tools & Software:**
-- Anaconda: https://www.anaconda.com
-- VS Code: https://code.visualstudio.com
-- Git: https://git-scm.com
-- Jupyter: https://jupyter.org
-- Tableau Public: https://public.tableau.com
+**DeepLearning.AI**
+- Generative AI for Software Dev: https://learn.deeplearning.ai/specializations/generative-ai-for-software-development/
+- AI Agents in LangGraph: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/
 
-**Documentation:**
-- Python: https://docs.python.org/3/
-- NumPy: https://numpy.org/doc/
-- Pandas: https://pandas.pydata.org/docs/
-- Scikit-learn: https://scikit-learn.org/stable/documentation.html
-- Matplotlib: https://matplotlib.org/
-- SQLAlchemy: https://docs.sqlalchemy.org/
+**DataCamp**
+- Main site: https://www.datacamp.com
+- Data Reshaping: https://campus.datacamp.com/courses/reshaping-data-with-pandas/
 
-**APIs & Services:**
-- OpenAI: https://platform.openai.com/docs
-- Requests Library: https://requests.readthedocs.io/
-
-**Datasets:**
-- Kaggle: https://www.kaggle.com
-- UCI ML Repository: https://archive.ics.uci.edu/ml/
-- Google Dataset Search: https://datasetsearch.research.google.com/
+**Coursera**
+- Main site: https://www.coursera.org
+- PACKT DS & ML: https://www.coursera.org/learn/packt-prerequisites-and-advanced-machine-learning-for-nlp-xwtax/
 
 ---
 
-## 📖 Recommended Reading
+## 📊 Skills Acquired by Week
 
-### Official Documentation
-- Python Docs: https://docs.python.org/3/
-- SQL: https://www.postgresql.org/docs/
-- Pandas: https://pandas.pydata.org/docs/
-- NumPy: https://numpy.org/doc/
-- Scikit-learn: https://scikit-learn.org/stable/
+**Week 1:**
+- Python fundamentals
+- SQL basics
+- Data visualization
+- File handling
 
-### Blogs & Articles
-- Towards Data Science: https://towardsdatascience.com
-- Analytics Vidhya: https://www.analyticsvidhya.com
-- Real Python: https://realpython.com
-- DataCamp Blog: https://www.datacamp.com/blog
+**Week 2:**
+- Advanced SQL
+- File I/O (8+ formats)
+- Pandas mastery
+- First ML models
+- API integration
 
-### Books (Recommended Future Reading)
-- "Python for Data Analysis" - Wes McKinney
-- "Hands-On ML" - Aurélien Géron
-- "Introduction to Statistical Learning" - James, Witten, Hastie, Tibshirani
-
----
-
-## 🎥 YouTube Channels
-
-**Week 2 Recommendations:**
-- **Krish Naik** - ML concepts, Python tutorials
-- **StatQuest with Josh Starmer** - ML algorithm explanations
-- **3Blue1Brown** - Math fundamentals visualization
-- **Corey Schafer** - Python & programming fundamentals
+**Week 3:**
+- Complete preprocessing pipeline
+- Advanced Matplotlib & Seaborn
+- Linear/Multiple/Polynomial Regression
+- Data reshaping
+- AI/GenAI fundamentals
 
 ---
 
-## 🏆 Certifications & Future Learning
+**Last Updated:** Week 3 Complete ✅  
+**Total Lessons:** 650+  
+**Total Platforms:** 8  
+**Total Courses:** 45+  
 
-**After Phase 1 (Week 8):**
-- Google Data Analytics Professional
-- DataCamp Data Scientist Track
-
-**After Phase 2 (Week 14):**
-- Databricks ML Engineer Associate
-- Microsoft Azure Data Scientist
-
-**After Phase 5 (Week 26):**
-- TensorFlow Developer Certificate
-- AWS Machine Learning Specialty
-
----
-
-## 💡 Additional Resources
-
-### Communities
-- **Stack Overflow** - Q&A for programming
-- **Reddit** - r/datascience, r/MachineLearning
-- **GitHub** - Open source projects
-- **Kaggle** - Competitions & datasets
-
-### Useful Tools
-- **GitHub Copilot** - AI-powered coding assistant
-- **ChatGPT/Claude** - General AI assistance
-- **Jupyter Extensions** - Enhanced notebooks
-- **VS Code Extensions** - Productivity tools
-
-### Practice Platforms
-- **LeetCode** - Coding challenges
-- **HackerRank** - Programming problems
-- **Kaggle Competitions** - ML competitions
-- **CodeSignal** - Technical interviews
-
----
-
-## 🎯 How to Use These Resources
-
-### Week 1 Complete ✅
-- All resources successfully used
-- Fundamentals mastered
-- Ready for Week 2
-
-### Week 2 Complete ✅
-- Advanced SQL practiced
-- File I/O mastered
-- ML models built
-- APIs explored
-- Ready for Week 3
-
-### Week 3+ Strategy
-- Focus on model optimization
-- Deepen ML understanding
-- Add specialized platforms
-- Build more complex projects
-
----
-
-## 🔄 Resource Updates
-
-**Week 1:** DataCamp, Udemy, DeepLearning.AI, Coursera, Analyst Builder  
-**Week 2 Added:** Coursera (Pandas), OpenAI API, Tableau  
-**Week 3+:** Will add Databricks, Azure, TensorFlow resources
-
----
-
-## 📝 Notes
-
-- **Quality over quantity** - Used curated, high-quality courses
-- **Multi-platform approach** - Different platforms for different needs
-- **Real data** - Always practiced with real datasets
-- **Reproducible** - All code tested and working
-- **Documented** - Every resource carefully tracked
-
----
-
-**Last Updated:** Week 2 Complete ✅  
-**Next Update:** Week 3 resources added
-
----
-
-## 🎓 Key Takeaway
-
-> "The best investment is in yourself and your skills."
-
-These resources represent a thoughtful curation of platforms, courses, and tools chosen to:
-- Build strong fundamentals
-- Practice hands-on skills
-- Understand theory deeply
-- Build real projects
-- Create a portfolio
-
-Use them to structure your own learning journey! 🚀
+**Status:** Ready for Week 4 & Beyond 🚀
