@@ -440,26 +440,6 @@ Week 4:  ░░░░░░░░░░░░░░░░░░░░ Starting n
 
 Next Milestone: Week 4
 ```
-
----
-
-## ❓ FAQ
-
-**Q: Can I use this curriculum?**  
-A: Absolutely! Fork it, adapt it, make it your own.
-
-**Q: Why share your learning publicly?**  
-A: Accountability, helping others, and building a portfolio simultaneously.
-
-**Q: How much time per day?**  
-A: ~8 hours daily (courses, practice, projects, documentation)
-
-**Q: Are the projects real?**  
-A: Yes! Real datasets, real analysis, working code.
-
-**Q: Can I follow along?**  
-A: Yes! Use this as your learning path.
-
 ---
 
 ## 🙏 Acknowledgments
