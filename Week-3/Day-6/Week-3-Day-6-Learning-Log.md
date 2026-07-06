@@ -1,6 +1,6 @@
 # Week 3: Day 6 Learning Log
 
-**Date:** [Insert Date] | **Duration:** 8 hours | **Status:** ✅ Complete  
+**Status:** ✅ Complete  
 **Consistency:** 20/21 days (95%)
 
 ---
