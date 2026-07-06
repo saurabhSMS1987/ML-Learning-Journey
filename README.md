@@ -1,11 +1,11 @@
 # 🚀 AI/ML Engineer Learning Journey
 
 **Enterprise AI/ML Engineer Roadmap** | 26 Weeks | Full-Stack Development  
-**Status:** Week 1-2 ✅ COMPLETE | Building Toward Week 26 🎯
+**Status:** Week 1-3 ✅ COMPLETE | Building Toward Week 26 🎯
 
 [![GitHub Stars](https://img.shields.io/github/stars/saurabhSMS1987/ML-Learning-Journey?style=social)](https://github.com/saurabhSMS1987/ML-Learning-Journey)
 [![GitHub Followers](https://img.shields.io/github/followers/saurabhSMS1987?style=social)](https://github.com/saurabhSMS1987)
-![Week Status](https://img.shields.io/badge/Week-2%2F26-brightgreen?style=flat-square)
+![Week Status](https://img.shields.io/badge/Week-3%2F26-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square)
 ![Learning](https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square)
@@ -32,24 +32,32 @@ I'm **learning machine learning in public** and documenting every step of my jou
 - **7/7 days | 250+ lessons | 5+ ML models | 56+ hours**
 - Project: Supply Chain Analytics
 
+### Week 3: Advanced ML & Capstone Projects ✅ COMPLETE
+- Data preprocessing mastery | Matplotlib advanced | Linear & Polynomial Regression
+- **Generative AI concepts** | Data reshaping | Seaborn visualization
+- **Capstone:** Fraud Detection & Investigation Dashboard
+- **7/7 days | 250+ lessons | 3+ ML models | 56+ hours**
+- Perfect consistency: 21/21 days total
+
 **Combined Stats:**
-| Metric | Week 1 | Week 2 | Total |
-|--------|--------|--------|-------|
-| Days | 7/7 | 7/7 | 14/14 ✅ |
-| Lessons | 150+ | 250+ | 400+ |
-| ML Models | 0 | 5+ | 5+ |
-| Projects | 2 | 1 | 3 |
-| Hours | 40+ | 56+ | 96+ |
+| Metric | Week 1 | Week 2 | Week 3 | Total |
+|--------|--------|--------|--------|-------|
+| Days | 7/7 | 7/7 | 7/7 | 21/21 ✅ |
+| Lessons | 150+ | 250+ | 250+ | 650+ |
+| ML Models | 0 | 5+ | 3+ | 8+ |
+| Projects | 2 | 1 | 1 | 4 |
+| Hours | 40+ | 56+ | 56+ | 152+ |
 
 ---
 
 ## 🗺️ The 26-Week Roadmap
 
 ### Phase 1: Python + scikit-learn (Weeks 1-8)
-**Status: Weeks 1-2 ✅ | Weeks 3-8 📚**
+**Status: Weeks 1-3 ✅ | Weeks 4-8 📚**
 - ✅ Week 1: Python fundamentals & SQL basics
 - ✅ Week 2: Advanced SQL, file I/O, first ML models
-- Week 3-8: Model optimization, ensembles, deep dives
+- ✅ Week 3: Data preprocessing, visualization, regression models, capstone
+- Week 4-8: Advanced regression, ensembles, deep dives
 - **Target:** Junior Data Scientist
 
 ### Phase 2: Databricks + PySpark (Weeks 9-14)
@@ -97,6 +105,16 @@ I'm **learning machine learning in public** and documenting every step of my jou
 - Model1 baseline implementation
 - [View Project](./Projects/Week-2-Supply-Chain-Analytics)
 
+### Week 3 Projects
+
+#### 4. 🔍 Fraud Investigation Dashboard & Detection
+**Tools:** Python, Pandas, Matplotlib, Seaborn | **Records:** 20,000+ transactions
+- End-to-end fraud detection system
+- Data preprocessing & feature engineering
+- Visualization dashboard for investigation
+- Pattern identification & insights
+- [View Project](./Projects/Week-3-Fraud-Detection)
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -109,17 +127,21 @@ I'm **learning machine learning in public** and documenting every step of my jou
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991)
 
-### Week 1-2 Skills Mastered
+### Week 1-3 Skills Mastered
 ✅ Python fundamentals & OOP  
 ✅ NumPy arrays & operations  
-✅ Pandas DataFrames (transform, aggregate, merge)  
+✅ Pandas DataFrames (transform, aggregate, merge, reshape)  
 ✅ SQL (basic + advanced subqueries)  
 ✅ File I/O (8+ formats)  
-✅ Linear & Logistic Regression  
+✅ Linear, Logistic & Polynomial Regression  
 ✅ Random Forest models  
-✅ Scikit-learn workflow  
+✅ Scikit-learn workflow & model evaluation  
+✅ Data preprocessing & feature engineering  
+✅ Matplotlib advanced (subplots, legends, styles)  
+✅ Seaborn statistical visualization  
 ✅ OpenAI API integration  
-✅ Data visualization (Matplotlib, Tableau)  
+✅ AI/ML paradigms & fundamentals  
+✅ Generative AI concepts  
 
 ---
 
@@ -143,7 +165,14 @@ ML-Learning-Journey/
 │   └── Projects/
 │       └── Supply-Chain-Analytics/
 │
-├── Week-3/ through Week-26/          (Planned)
+├── Week-3/                           ✅ COMPLETE
+│   ├── Week-3-Summary.md
+│   ├── Day-1/ through Day-7/
+│   │   └── [Learning logs & notebooks]
+│   └── Projects/
+│       └── Fraud-Detection-Dashboard/
+│
+├── Week-4/ through Week-26/          (Planned)
 │
 ├── README.md                         (This file!)
 ├── Resources.md                      (Course links & materials)
@@ -196,21 +225,22 @@ cd Projects/Week-2-Supply-Chain-Analytics/
 
 ### Total Progress
 ```
-Weeks Completed:        2/26 (7.7%)
-Days Completed:         14/14 (100%)
-Total Lessons:          400+
-ML Models Built:        5+
-Projects Completed:     3
-Total Hours:            96+
-Total Files:            60+
+Weeks Completed:        3/26 (11.5%)
+Days Completed:         21/21 (100%) ✅
+Total Lessons:          650+
+ML Models Built:        8+
+Projects Completed:     4
+Total Hours:            152+
+Total Files:            100+
 Consistency:            Perfect ✅
 ```
 
 ### Learning Quality Ratings
 - **Python Fundamentals:** ⭐⭐⭐⭐⭐ (5/5)
 - **SQL Skills:** ⭐⭐⭐⭐⭐ (5/5)
-- **Data Manipulation:** ⭐⭐⭐⭐⭐ (5/5)
-- **ML Models:** ⭐⭐⭐⭐ (4/5) - improving Week 3
+- **Data Manipulation & Reshaping:** ⭐⭐⭐⭐⭐ (5/5)
+- **Visualization:** ⭐⭐⭐⭐⭐ (5/5) - Matplotlib & Seaborn
+- **ML Modeling:** ⭐⭐⭐⭐⭐ (5/5) - Multiple regression types
 - **Documentation:** ⭐⭐⭐⭐⭐ (5/5)
 - **Overall Quality:** ⭐⭐⭐⭐⭐ (5/5)
 
@@ -226,25 +256,26 @@ Consistency:            Perfect ✅
 ✅ **Complete code** - Working examples throughout  
 
 ### For Employers
-✅ **Dedication** - 14/14 days (100% consistency)  
-✅ **Quality** - Professional documentation  
-✅ **Depth** - Detailed learning logs & projects  
-✅ **Growth** - Clear skill progression (Week 1 → Week 2)  
-✅ **Production-ready** - Complete, working code  
+✅ **Dedication** - 21/21 days (100% consistency)  
+✅ **Quality** - Professional, production-ready documentation  
+✅ **Depth** - Detailed learning logs & 4 professional projects  
+✅ **Growth** - Clear skill progression (Week 1 → Week 3)  
+✅ **Breadth** - Multiple ML domains & technologies mastered  
+✅ **Production-ready** - Complete, tested, working code  
 
 ---
 
 ## 📈 Progress Timeline
 
 ```
-Week 1-2   ✅ Python Foundations + Advanced Data Science + First ML
-Week 3-8   📅 ML Mastery & Optimization
+Week 1-3   ✅ Python + Data Science + ML Fundamentals + Capstone
+Week 4-8   📅 ML Mastery & Optimization  
 Week 9-14  📅 Enterprise Systems (Databricks, Spark)
 Week 15-18 📅 AI Agents (Claude Code, MCP)
 Week 19-22 📅 Cloud & Production (Azure, MLOps)
 Week 23-26 📅 GenAI Systems (Deep Learning, LLMs)
 
-Current: 2/26 weeks (7.7%) | Next: Week 3 Model Optimization
+Current: 3/26 weeks (11.5%) | Next: Week 4 Ensemble Methods
 ```
 
 ---
@@ -292,7 +323,7 @@ Current: 2/26 weeks (7.7%) | Next: Week 3 Model Optimization
 - Data structures and file handling
 - 2 real projects
 
-### Week 2: Advanced Data Science
+### Week 2: Advanced Data Science ✅
 - Advanced SQL (subqueries, joins)
 - File importing (8+ formats)
 - DataFrame mastery
@@ -300,12 +331,20 @@ Current: 2/26 weeks (7.7%) | Next: Week 3 Model Optimization
 - OpenAI API integration
 - 1 capstone project
 
-### Week 3: Model Optimization (Next)
-- Cross-validation
+### Week 3: Advanced ML & Visualization ✅
+- Data preprocessing pipeline
+- Linear & Polynomial Regression
+- Advanced Matplotlib & Seaborn
+- Data reshaping & pivoting
+- AI/GenAI fundamentals
+- Fraud Detection capstone
+
+### Week 4: Ensemble Methods (Next)
+- Cross-validation techniques
 - Hyperparameter tuning
-- Ensemble methods
-- Unsupervised learning
-- Customer segmentation capstone
+- Ensemble methods (Random Forest, Gradient Boosting)
+- XGBoost & LightGBM
+- Model optimization
 
 ---
 
@@ -339,12 +378,18 @@ Every day includes:
 - 5+ ML models
 - 1 capstone project
 
-### Combined
-- **14/14 days (100%)**
-- **400+ lessons**
-- **5+ ML models**
-- **3 projects**
-- **96+ hours**
+### Week 3 ✅
+- 7/7 days (100%)
+- 250+ lessons
+- 3+ ML models
+- 1 capstone project (Fraud Detection)
+
+### Combined (Weeks 1-3)
+- **21/21 days (100%)**
+- **650+ lessons**
+- **8+ ML models**
+- **4 projects**
+- **152+ hours**
 
 ---
 
@@ -352,8 +397,8 @@ Every day includes:
 
 ### Quick Start
 1. ⭐ **Star** this repo
-2. 📖 **Read** [Week-2-Summary.md](./Week-2/Week-2-Summary.md)
-3. 📂 **Explore** the daily learning logs
+2. 📖 **Read** [Week-3-Summary.md](./Week-3/Week-3-Summary.md)
+3. 📂 **Explore** the daily learning logs (Weeks 1-3)
 4. 🔗 **Follow** for weekly updates
 5. 🤝 **Connect** on LinkedIn/GitHub
 
@@ -444,20 +489,20 @@ This repository represents:
 ## 📊 By the Numbers
 
 ```
-Weeks:          2/26 (7.7%)
-Days:           14/14 (100%) ✅
-Hours:          96+ invested
-Lessons:        400+ completed
-Projects:       3 finished
-ML Models:      5+ built
-Code Files:     60+ created
+Weeks:          3/26 (11.5%)
+Days:           21/21 (100%) ✅
+Hours:          152+ invested
+Lessons:        650+ completed
+Projects:       4 finished
+ML Models:      8+ built
+Code Files:     100+ created
 Consistency:    Perfect ✅
 ```
 
 ---
 
-**Status:** Weeks 1-2 ✅ Complete | Week 3 Starting Next 📚  
-**Progress:** 2/26 weeks (7.7%) | 14/14 days (100%)  
+**Status:** Weeks 1-3 ✅ Complete | Week 4 Coming Next 📚  
+**Progress:** 3/26 weeks (11.5%) | 21/21 days (100%)  
 **Next Update:** Weekly
 
 ---
