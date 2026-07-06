@@ -4,171 +4,9 @@
 
 ---
 
-## 🎓 Courses & Platforms
+## 🎓 Courses Overview
 
-### Week 1 Courses
-
-**DataCamp**
-- Python Basics & Lists
-- SQL Relational Databases
-- Intermediate SQL
-- SQL Aggregation
-- SQL Sorting & Grouping
-- Matplotlib Visualization
-- Dictionaries & Pandas
-- Functions & Packages
-- Logic & Control Flow
-- Outer/Cross/Self JOINs
-
-**Udemy**
-- Complete Data Science Bootcamp (Krish Naik)
-
-**Coursera**
-- Intro to AI (IBM)
-- Intro to Gen AI (Duke)
-
-**Tableau**
-- Tableau Learning Portal Basics
-
----
-
-### Week 2 Courses
-
-**DataCamp (13+ new courses)**
-- Joining Data: Subqueries
-- Intro to Importing Data
-- Importing Data from Other File Types
-- Transforming DataFrames
-- Aggregating DataFrames
-- Slicing & Indexing DataFrames
-- Data Merging Basics
-- Merging Tables with Different Join Types
-- Advanced Merging & Concatenating
-- Relational Databases in Python
-- Importing JSON Data & APIs
-- Working with OpenAI API
-- Model Validation
-
-**Udemy**
-- Complete Data Science Bootcamp (sections: Linear Regression, Logistic Regression, scikit-learn)
-- Python for ML & DS Masterclass
-
-**DeepLearning.AI**
-- Supervised ML: Regression & Classification
-- Neural Networks Introduction
-
-**Analyst Builder**
-- Foundations of Data Pipelines
-- Pandas for Data Analysis
-- Connecting to Data Sources
-
-**Coursera**
-- Python for Data Analysis: Pandas & NumPy
-
-**Tableau**
-- Data Connections
-- Connect to Datasource
-- Explore Connected Data
-
----
-
-### Week 3 Courses
-
-**Udemy - ML A-Z 2026**
-- Section 2: Data Preprocessing for ML (22 topics)
-  - Preprocessing techniques
-  - Handling missing values
-  - Categorical encoding
-  - Train/test splitting
-  - Feature scaling
-  
-- Section 6: Simple Linear Regression
-  - Linear regression theory
-  - OLS implementation
-  - Model training & prediction
-  - Visualization (real vs predicted)
-
-- Section 7: Multiple Linear Regression
-  - MLR theory & concepts
-  - Data preprocessing for MLR
-  - Model building with scikit-learn
-  - Comparing models
-  - Evaluating accuracy
-  
-- Section 8: Polynomial Linear Regression
-  - Polynomial concepts
-  - Degree selection
-  - Salary prediction applications
-  - Model comparison
-
-**Udemy - Python for ML & DS Masterclass**
-- Matplotlib: Subplots, Legends, Colors & Styles
-- Figure Objects & Anatomy of Plots
-- Figure Dimensions & Styling
-
-**Udemy - 2026 Python Data Analysis & Visualization Masterclass**
-- Matplotlib Advanced (Days 2, 4, 6)
-  - Subplots & layouts
-  - Legends & customization
-  - Colors, line styles, widths
-  - Plot labels & titles
-  - X & Y tick modification
-  - Bar plots & histograms
-  - Scatter plots & pie charts
-  - Matplotlib challenges (exercises)
-
-- Seaborn Visualization (Day 6)
-  - Intro to Seaborn
-  - load_dataset() method
-  - Scatterplots
-  - Lineplots
-  - relplot() method
-  - Resizing plots (aspect & height)
-
-**The AI Engineer Course 2026 (Udemy)**
-- Section 2: Data is Essential for Building AI (Days 3, 4, 6)
-  - Structured vs Unstructured data
-  - Data collection methods
-  - Labeled & unlabeled data
-  - Metadata fundamentals
-  - Machine Learning paradigms
-  - Supervised, Unsupervised, Reinforcement Learning
-  - Deep Learning introduction
-  - Robotics applications
-  - Computer Vision basics
-  - Traditional ML overview
-  - Generative AI fundamentals
-
-**Coursera - PACKT: Foundations of DS & ML with Python**
-- Module 4: Some Fun with Math (Theory - Day 3)
-  - Linear Algebra: Vectors
-  - Matrix operations (Matrix 1 & 2)
-  - Scaling to nD dimensions (2D to nD)
-
-**DeepLearning.AI**
-- Introduction to Generative AI for Software Development (Day 5)
-  - What is Generative AI?
-  - AI and Machine Learning basics
-  - ML examples
-  - Supervised Learning
-  - Introduction to Transformers
-  
-- AI Agents in LangGraph (Day 3)
-  - Agent fundamentals
-  - Building agents from scratch
-  - ReAct pattern implementation
-
-**DataCamp**
-- Introduction to Data Reshaping (Day 5)
-  - Wide vs long data formats
-  - Pivot operations
-  - Pivot tables
-  - Data reshaping techniques
-
----
-
-## 📊 Course Summary Statistics
-
+### Summary Statistics
 | Category | Week 1 | Week 2 | Week 3 | Total |
 |----------|--------|--------|--------|-------|
 | **Platforms** | 5 | 7 | 8 | 8 |
@@ -177,29 +15,113 @@
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+## Week 1: Python Foundations & SQL
 
-### Core Python Libraries
-- **pandas** - Data manipulation & reshaping
-- **numpy** - Numerical computing
-- **matplotlib** - Visualization (basic & advanced)
-- **seaborn** - Statistical visualization
-- **scikit-learn** - Machine learning models
-- **sqlalchemy** - Database connections
-- **requests** - API requests
-- **openai** - OpenAI API integration
-- **pickle** - Model persistence
+**DataCamp:**
+- Python Basics, Lists, Dictionaries & Pandas
+- SQL: Relational Databases, Aggregation, Sorting, Joining
+- Matplotlib Visualization
+- Functions & Packages, Logic & Control Flow
 
-### ML Models Built (Week 2-3)
-- Linear Regression
-- Logistic Regression
-- Random Forest
-- Multiple Linear Regression
-- Polynomial Linear Regression
+**Udemy:**
+- Complete Data Science Bootcamp (Krish Naik)
+
+**Coursera:**
+- Intro to AI (IBM) | Intro to Gen AI (Duke)
+
+---
+
+## Week 2: Advanced Data Science & ML
+
+**DataCamp:**
+- Joining Data: Subqueries | Importing Data (multiple formats)
+- Transforming, Aggregating, Slicing & Indexing DataFrames
+- Data Merging (all join types) | Relational Databases in Python
+- Importing JSON Data & APIs | OpenAI API | Model Validation
+
+**Udemy:**
+- Python for ML & DS Masterclass
+- Complete Data Science Bootcamp (ML sections)
+
+**DeepLearning.AI:**
+- Supervised ML: Regression & Classification | Neural Networks
+
+**Analyst Builder:**
+- Foundations of Data Pipelines | Pandas | Data Connections
+
+**Coursera:**
+- Python for Data Analysis: Pandas & NumPy
+
+**Tableau:**
+- Data Connections, Datasources, Exploration
+
+---
+
+## Week 3: Advanced ML & Visualization
+
+### Data Preprocessing (ML A-Z 2026)
+- Complete pipeline: Import → Handle Missing → Encode → Split → Scale
+- SimpleImputer, OneHotEncoder, LabelEncoder
+- Train/test splitting with scikit-learn
+- Feature scaling (StandardScaler)
+
+### Regression Models
+- Simple Linear Regression (OLS, theory & implementation)
+- Multiple Linear Regression (theory & scikit-learn)
+- Polynomial Linear Regression (degree selection)
+- Real vs predicted visualization
+
+### Visualization
+- **Matplotlib Advanced:**
+  - Subplots & figure layouts
+  - Legends, colors, line styles
+  - Plot labels, titles, customization
+  - Bar plots, histograms, scatter plots, pie charts
+
+- **Seaborn:**
+  - Statistical visualization intro
+  - Scatterplots, lineplots, relplot()
+  - Plot resizing (aspect, height)
+
+### Data Science Theory
+- Data: Structured vs Unstructured
+- Labeled vs Unlabeled data
+- Metadata fundamentals
+- Data collection methods
+
+### Linear Algebra
+- Vectors, matrices, nD spaces
+- Mathematical foundations for ML
+
+### AI/GenAI Concepts
+- ML paradigms: Supervised, Unsupervised, Reinforcement
+- Deep Learning introduction
+- Generative AI fundamentals
+- Transformers architecture intro
+- AI agents & ReAct pattern
+
+### Data Manipulation
+- Pandas reshaping: Wide vs Long formats
+- Pivot operations & pivot tables
+- Data reshaping techniques
+
+---
+
+## 📊 Technologies & Libraries
+
+### Python Libraries
+- **Data:** pandas, numpy
+- **Visualization:** matplotlib, seaborn
+- **ML:** scikit-learn
+- **Utilities:** sqlalchemy, requests, openai, pickle
+
+### ML Models Built
+- Linear Regression | Logistic Regression | Random Forest
+- Multiple Linear Regression | Polynomial Regression
 
 ### Databases
 - SQL (PostgreSQL, SQLite)
-- Database connections via Python
+- Python database connections
 
 ---
 
@@ -210,62 +132,43 @@
 - Superstore Sales (9,801 records)
 
 **Week 2:**
-- Heart Disease dataset
-- Advertising dataset
-- Titanic dataset
-- Supply Chain dataset
+- Heart Disease | Advertising | Titanic | Supply Chain
 
 **Week 3:**
-- Position & Salaries dataset (Linear/Polynomial Regression)
-- 50 Startups dataset (Multiple Linear Regression)
-- Financial transaction data (20,000+ records - Fraud Detection)
+- Position & Salaries (Linear/Polynomial Regression)
+- 50 Startups (Multiple Linear Regression)
+- Financial Transactions (20,000+ - Fraud Detection)
 
 ---
 
-## 🔗 Important Links
+## 🔗 Key Course Links
 
-**Udemy Courses (Deloitte)**
+**Udemy (Deloitte):**
 - ML A-Z 2026: https://deloittedevelopment.udemy.com/course/machinelearning/
 - Python for ML & DS Masterclass: https://deloittedevelopment.udemy.com/course/python-for-machine-learning-data-science-masterclass/
 - Python Data Analysis & Visualization 2026: https://deloittedevelopment.udemy.com/course/python-data-analysis-visualization/
 - The AI Engineer Course 2026: https://deloittedevelopment.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/
 
-**DeepLearning.AI**
-- Generative AI for Software Dev: https://learn.deeplearning.ai/specializations/generative-ai-for-software-development/
-- AI Agents in LangGraph: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/
+**DeepLearning.AI:**
+- Generative AI: https://learn.deeplearning.ai/specializations/generative-ai-for-software-development/
+- AI Agents: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/
 
-**DataCamp**
-- Main site: https://www.datacamp.com
-- Data Reshaping: https://campus.datacamp.com/courses/reshaping-data-with-pandas/
+**DataCamp:** https://www.datacamp.com
 
-**Coursera**
-- Main site: https://www.coursera.org
-- PACKT DS & ML: https://www.coursera.org/learn/packt-prerequisites-and-advanced-machine-learning-for-nlp-xwtax/
+**Coursera:** https://www.coursera.org
 
 ---
 
 ## 📊 Skills Acquired by Week
 
-**Week 1:**
-- Python fundamentals
-- SQL basics
-- Data visualization
-- File handling
+**Week 1:** Python | SQL | Data Visualization | File Handling
 
-**Week 2:**
-- Advanced SQL
-- File I/O (8+ formats)
-- Pandas mastery
-- First ML models
-- API integration
+**Week 2:** Advanced SQL | File I/O | Pandas | First ML Models | APIs
 
-**Week 3:**
-- Complete preprocessing pipeline
-- Advanced Matplotlib & Seaborn
-- Linear/Multiple/Polynomial Regression
-- Data reshaping
-- AI/GenAI fundamentals
+**Week 3:** Preprocessing Pipeline | Matplotlib & Seaborn | 3 Regression Models | Data Reshaping | AI/GenAI Fundamentals
 
 ---
 
-**Status:** Ready for Week 4 & Beyond 🚀
+**Total:** 45+ courses | 650+ lessons | 8+ ML models | 4 projects | 152+ hours
+
+**Status:** Weeks 1-3 Complete ✅ | Ready for Week 4 & Beyond 🚀

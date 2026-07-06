@@ -33,9 +33,15 @@ I'm **learning machine learning in public** and documenting every step of my jou
 - Project: Supply Chain Analytics
 
 ### Week 3: Advanced ML & Capstone Projects ✅ COMPLETE
-- Data preprocessing mastery | Matplotlib advanced | Linear & Polynomial Regression
-- **Generative AI concepts** | Data reshaping | Seaborn visualization
-- **Capstone:** Fraud Detection & Investigation Dashboard
+- Data preprocessing pipeline mastery (SimpleImputer, encoding, scaling)
+- Matplotlib advanced (subplots, legends, colors, customization)
+- Linear & Polynomial Regression implementation
+- Multiple Linear Regression with scikit-learn
+- Data reshaping & pivoting with Pandas
+- Seaborn statistical visualization
+- Generative AI fundamentals
+- AI agents & ReAct pattern introduction
+- **Capstone:** Fraud Detection & Investigation Dashboard (20,000+ transactions)
 - **7/7 days | 250+ lessons | 3+ ML models | 56+ hours**
 - Perfect consistency: 21/21 days total
 
@@ -329,12 +335,19 @@ Current: 3/26 weeks (11.5%) | Next: Week 4 Ensemble Methods
 - 1 capstone project
 
 ### Week 3: Advanced ML & Visualization ✅
-- Data preprocessing pipeline
-- Linear & Polynomial Regression
-- Advanced Matplotlib & Seaborn
-- Data reshaping & pivoting
-- AI/GenAI fundamentals
-- Fraud Detection capstone
+- Complete data preprocessing pipeline (7 day breakdown)
+  - Day 1: Preprocessing fundamentals, SimpleImputer, encoding, scaling
+  - Day 2: Matplotlib advanced, Simple Linear Regression
+  - Day 3: Data theory, Linear Algebra, AI agents intro
+  - Day 4: ML paradigms, Multiple Linear Regression
+  - Day 5: MLR implementation, GenAI, data reshaping
+  - Day 6: Polynomial Regression, Seaborn visualization
+  - Day 7: Capstone - Fraud Detection Dashboard
+- Linear, Polynomial, & Multiple Regression models
+- Advanced Matplotlib (subplots, legends, customization)
+- Seaborn statistical visualization
+- Data reshaping (pivot, pivot_table)
+- AI/GenAI fundamentals & agents
 
 ### Week 4: Ensemble Methods (Next)
 - Cross-validation techniques
