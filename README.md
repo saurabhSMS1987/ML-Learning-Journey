@@ -182,16 +182,16 @@ ML-Learning-Journey/
 
 ### Week 1 & 2 Courses
 ### Goal is not to complete all courses. Goal is to cover content across multiple courses over time
-| Course | Platform | Status |
-|--------|----------|--------|
-| Complete Data Science Bootcamp | Udemy (Krish Naik) | ✅ In Progress |
-| Python for Data Analysis: Pandas & NumPy | Coursera | ✅ Completed |
-| Advanced SQL & Subqueries | DataCamp | ✅ Completed |
-| Importing Data (8+ formats) | DataCamp | ✅ Completed |
-| Supervised ML: Regression & Classification | DeepLearning.AI | ✅ In Progress |
-| Foundations of Data Pipelines | Analyst Builder | ✅ Completed |
-| OpenAI API & ChatbotBuilding | DataCamp | ✅ Completed |
-| Intro to AI | Coursera (IBM) | ✅ Completed |
+| Course | Platform |
+|--------|----------|
+| Complete Data Science Bootcamp | Udemy (Krish Naik) |
+| Python for Data Analysis: Pandas & NumPy | Coursera |
+| Advanced SQL & Subqueries | DataCamp |
+| Importing Data (8+ formats) | DataCamp |
+| Supervised ML: Regression & Classification | DeepLearning.AI |
+| Foundations of Data Pipelines | Analyst Builder |
+| OpenAI API & ChatbotBuilding | DataCamp |
+| Intro to AI | Coursera (IBM) |
 | Tableau Data Connections | Tableau Learning |
 
 **Full List:** [Resources.md](./Resources.md)
